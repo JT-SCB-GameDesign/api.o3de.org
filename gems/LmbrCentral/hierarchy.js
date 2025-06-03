@@ -345,7 +345,7 @@ var hierarchy =
       [ "LmbrCentral::EditorSpawnerComponent", "class_lmbr_central_1_1_editor_spawner_component.html", null ],
       [ "LmbrCentral::EditorSplineComponent", "class_lmbr_central_1_1_editor_spline_component.html", null ],
       [ "LmbrCentral::EditorTagComponent", "class_lmbr_central_1_1_editor_tag_component.html", null ],
-      [ "LmbrCentral::EditorWrappedComponentBase< typename, typename >", "class_lmbr_central_1_1_editor_wrapped_component_base.html", null ]
+      [ "LmbrCentral::EditorWrappedComponentBase< TComponent, TConfiguration >", "class_lmbr_central_1_1_editor_wrapped_component_base.html", null ]
     ] ],
     [ "AzToolsFramework::CylinderManipulatorRequestBus::Handler", null, [
       [ "LmbrCentral::EditorCylinderShapeComponent", "class_lmbr_central_1_1_editor_cylinder_shape_component.html", null ]
@@ -360,7 +360,7 @@ var hierarchy =
     ] ],
     [ "AzToolsFramework::EditorVisibilityNotificationBus::Handler", null, [
       [ "LmbrCentral::EditorWrappedComponentBase< ReferenceShapeComponent, ReferenceShapeConfig >", "class_lmbr_central_1_1_editor_wrapped_component_base.html", null ],
-      [ "LmbrCentral::EditorWrappedComponentBase< typename, typename >", "class_lmbr_central_1_1_editor_wrapped_component_base.html", null ]
+      [ "LmbrCentral::EditorWrappedComponentBase< TComponent, TConfiguration >", "class_lmbr_central_1_1_editor_wrapped_component_base.html", null ]
     ] ],
     [ "AzToolsFramework::RadiusManipulatorRequestBus::Handler", null, [
       [ "LmbrCentral::EditorCapsuleShapeComponent", "class_lmbr_central_1_1_editor_capsule_shape_component.html", null ],
@@ -427,15 +427,9 @@ var hierarchy =
     ] ],
     [ "LmbrCentral::EditorTubeShapeComponentMode::TubeManipulatorState", "struct_lmbr_central_1_1_editor_tube_shape_component_mode_1_1_tube_manipulator_state.html", null ],
     [ "LmbrCentral::IntersectionTestDataCache< ShapeConfiguration >", "class_lmbr_central_1_1_intersection_test_data_cache.html", null ],
-    [ "LmbrCentral::IntersectionTestDataCache< AZ::PolygonPrism >", "class_lmbr_central_1_1_intersection_test_data_cache.html", null ],
     [ "LmbrCentral::IntersectionTestDataCache< BoxShapeConfig >", "class_lmbr_central_1_1_intersection_test_data_cache.html", [
       [ "LmbrCentral::BoxShape::BoxIntersectionDataCache", "class_lmbr_central_1_1_box_shape_1_1_box_intersection_data_cache.html", null ]
     ] ],
-    [ "LmbrCentral::IntersectionTestDataCache< CapsuleShapeConfig >", "class_lmbr_central_1_1_intersection_test_data_cache.html", null ],
-    [ "LmbrCentral::IntersectionTestDataCache< CylinderShapeConfig >", "class_lmbr_central_1_1_intersection_test_data_cache.html", null ],
-    [ "LmbrCentral::IntersectionTestDataCache< DiskShapeConfig >", "class_lmbr_central_1_1_intersection_test_data_cache.html", null ],
-    [ "LmbrCentral::IntersectionTestDataCache< QuadShapeConfig >", "class_lmbr_central_1_1_intersection_test_data_cache.html", null ],
-    [ "LmbrCentral::IntersectionTestDataCache< SphereShapeConfig >", "class_lmbr_central_1_1_intersection_test_data_cache.html", null ],
     [ "LmbrCentral::OpenBundleInfo", "struct_lmbr_central_1_1_open_bundle_info.html", null ],
     [ "LmbrCentral::PolygonPrismMesh", "struct_lmbr_central_1_1_polygon_prism_mesh.html", null ],
     [ "LmbrCentral::RandomTimedSpawnerConfiguration", "class_lmbr_central_1_1_random_timed_spawner_configuration.html", [

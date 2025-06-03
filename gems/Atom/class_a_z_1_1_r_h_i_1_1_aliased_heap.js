@@ -1,7 +1,7 @@
 var class_a_z_1_1_r_h_i_1_1_aliased_heap =
 [
-    [ "ActivateBuffer", "class_a_z_1_1_r_h_i_1_1_aliased_heap.html#ae6ff33a9ae98d1588dca321164553420", null ],
-    [ "ActivateImage", "class_a_z_1_1_r_h_i_1_1_aliased_heap.html#af9e9439ad6c42bb646a6369b688cbbb2", null ],
+    [ "ActivateBuffer", "class_a_z_1_1_r_h_i_1_1_aliased_heap.html#aac82381d4874ab9d1d82bd8399e17a9e", null ],
+    [ "ActivateImage", "class_a_z_1_1_r_h_i_1_1_aliased_heap.html#a5c785cb7c219902369a6e239db46b160", null ],
     [ "Begin", "class_a_z_1_1_r_h_i_1_1_aliased_heap.html#a7d230fff5ad0e8fdda831474e131bc87", null ],
     [ "ComputeFragmentation", "class_a_z_1_1_r_h_i_1_1_aliased_heap.html#ad487efef9adefed547dda0bd07868667", null ],
     [ "DeactivateBuffer", "class_a_z_1_1_r_h_i_1_1_aliased_heap.html#a3d7b63d39a4e61d9da25beda9f47fb60", null ],

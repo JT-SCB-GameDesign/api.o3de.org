@@ -1,6 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"struct_phys_x_1_1_editor_character_controller_proxy_shape_config.html":[1,0,1,52],
 "struct_phys_x_1_1_editor_proxy_asset_shape_config.html":[1,0,1,77],
 "struct_phys_x_1_1_editor_proxy_asset_shape_config.html#a70fef7321100dcd4eb4a8d581cf2a0f2":[1,0,1,77,0],
 "struct_phys_x_1_1_editor_proxy_asset_shape_config.html#a9e74fdd719936af53cde0b389cdcdea7":[1,0,1,77,1],

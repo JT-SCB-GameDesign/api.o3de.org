@@ -6,6 +6,7 @@ var class_a_z_1_1_r_h_i_1_1_device =
     [ "CompileMemoryStatistics", "class_a_z_1_1_r_h_i_1_1_device.html#a796b290654f3a3b052e0bd05f09cce0f", null ],
     [ "ConvertShadingRate", "class_a_z_1_1_r_h_i_1_1_device.html#a64ab1f89e846fef8e08087178cf94fb8", null ],
     [ "EndFrame", "class_a_z_1_1_r_h_i_1_1_device.html#af933eda6d87a09cf8ef5b801a81347df", null ],
+    [ "GetCalibratedTimestamp", "class_a_z_1_1_r_h_i_1_1_device.html#a089b84796a43e641e9ed436566e43699", null ],
     [ "GetDescriptor", "class_a_z_1_1_r_h_i_1_1_device.html#a32aa297e077049c573ae65a857a2e54f", null ],
     [ "GetDeviceIndex", "class_a_z_1_1_r_h_i_1_1_device.html#acd1b91884120236eefa04391bdc8f12f", null ],
     [ "GetFeatures", "class_a_z_1_1_r_h_i_1_1_device.html#af00532dd20ff12ac3f49b73bb6ec023f", null ],

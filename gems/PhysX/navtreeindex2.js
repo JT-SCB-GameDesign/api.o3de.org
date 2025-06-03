@@ -1,6 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"class_phys_x_1_1_px_az_allocator_callback.html":[1,0,1,154],
 "class_phys_x_1_1_px_az_error_callback.html":[1,0,1,155],
 "class_phys_x_1_1_px_az_profiler_callback.html":[1,0,1,156],
 "class_phys_x_1_1_px_az_profiler_callback.html#a38377386f5dcd7645dacd7960d03be24":[1,0,1,156,0],
@@ -248,6 +247,7 @@ var NAVTREEINDEX2 =
 "struct_phys_x_1_1_debug_draw_1_1_collider_1_1_geometry_data.html":[1,0,1,1,0,1],
 "struct_phys_x_1_1_editor_1_1_cell_1_1_data.html":[1,0,1,2,0,0],
 "struct_phys_x_1_1_editor_1_1_column_header_1_1_data.html":[1,0,1,2,7,0],
-"struct_phys_x_1_1_editor_1_1_row_header_1_1_data.html":[1,0,1,2,15,0],
-"struct_phys_x_1_1_editor_articulation_link_configuration.html":[1,0,1,49]
+"struct_phys_x_1_1_editor_1_1_row_header_1_1_data.html":[1,0,1,2,14,0],
+"struct_phys_x_1_1_editor_articulation_link_configuration.html":[1,0,1,49],
+"struct_phys_x_1_1_editor_character_controller_proxy_shape_config.html":[1,0,1,52]
 };

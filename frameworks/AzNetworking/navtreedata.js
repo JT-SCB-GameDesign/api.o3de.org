@@ -42,10 +42,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"class_az_networking_1_1_i_serializer.html#a65cae59af6098ed864834a78cd2ced41",
+"class_az_networking_1_1_i_serializer.html#a6c97362d7f3c0a938d9a162c54370f47",
 "class_az_networking_1_1_tcp_socket_manager.html#a5ff047e1e2bf8f2de182760e60b440cc",
 "struct_az_networking_1_1_quantized_values_helper.html"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';

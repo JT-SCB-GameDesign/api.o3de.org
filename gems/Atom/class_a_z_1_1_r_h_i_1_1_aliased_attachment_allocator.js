@@ -1,8 +1,8 @@
 var class_a_z_1_1_r_h_i_1_1_aliased_attachment_allocator =
 [
     [ "Descriptor", "struct_a_z_1_1_r_h_i_1_1_aliased_attachment_allocator_1_1_descriptor.html", null ],
-    [ "ActivateBuffer", "class_a_z_1_1_r_h_i_1_1_aliased_attachment_allocator.html#ae17192108b88e9cb31eb8af6d85aee8d", null ],
-    [ "ActivateImage", "class_a_z_1_1_r_h_i_1_1_aliased_attachment_allocator.html#a1daf38cbc18771043d25525884f0e917", null ],
+    [ "ActivateBuffer", "class_a_z_1_1_r_h_i_1_1_aliased_attachment_allocator.html#a85f74ef8a01ec91cb8c97c9bbfce3b14", null ],
+    [ "ActivateImage", "class_a_z_1_1_r_h_i_1_1_aliased_attachment_allocator.html#aeb86c623d896dcc1c8fcb7f6a1b6ca47", null ],
     [ "Begin", "class_a_z_1_1_r_h_i_1_1_aliased_attachment_allocator.html#a89757c5416c2f342a36274ea6ede35b4", null ],
     [ "DeactivateBuffer", "class_a_z_1_1_r_h_i_1_1_aliased_attachment_allocator.html#a16a708af97604053149e7657e81509e0", null ],
     [ "DeactivateImage", "class_a_z_1_1_r_h_i_1_1_aliased_attachment_allocator.html#a5993a55b7b6a5e20e114f1647e9c6134", null ],

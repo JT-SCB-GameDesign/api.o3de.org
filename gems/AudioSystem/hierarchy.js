@@ -81,11 +81,8 @@ var hierarchy =
     [ "Audio::CAudioObjectManager", "class_audio_1_1_c_audio_object_manager.html", null ],
     [ "Audio::CAudioThread", "class_audio_1_1_c_audio_thread.html", null ],
     [ "Audio::CInstanceManager< ObjType, IDType >", "class_audio_1_1_c_instance_manager.html", null ],
-    [ "Audio::CInstanceManager< Audio::CATLAudioObject, TAudioObjectID >", "class_audio_1_1_c_instance_manager.html", null ],
-    [ "Audio::CInstanceManager< Audio::CATLEvent, TAudioEventID >", "class_audio_1_1_c_instance_manager.html", null ],
     [ "Audio::CSmoothFloat", "class_audio_1_1_c_smooth_float.html", null ],
     [ "Audio::Flags< StoredType, typename >", "class_audio_1_1_flags.html", null ],
-    [ "Audio::Flags< TATLEnumFlagsType >", "class_audio_1_1_flags.html", null ],
     [ "Audio::Gem::SystemRequestBus::Handler", null, [
       [ "AudioSystemGem::AudioSystemGemSystemComponent", "class_audio_system_gem_1_1_audio_system_gem_system_component.html", null ]
     ] ],

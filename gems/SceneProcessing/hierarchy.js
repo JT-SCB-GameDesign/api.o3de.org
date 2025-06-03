@@ -16,6 +16,11 @@ var hierarchy =
     [ "AZ::MeshBuilder::MeshBuilderSkinningInfo::Influence", "struct_a_z_1_1_mesh_builder_1_1_mesh_builder_skinning_info_1_1_influence.html", null ],
     [ "AZ::MeshBuilder::MeshBuilderSubMesh", "class_a_z_1_1_mesh_builder_1_1_mesh_builder_sub_mesh.html", null ],
     [ "AZ::MeshBuilder::MeshBuilderVertexAttributeLayer", "class_a_z_1_1_mesh_builder_1_1_mesh_builder_vertex_attribute_layer.html", [
+      [ "AZ::MeshBuilder::MeshBuilderVertexAttributeLayerT< AZ::Vector2 >", "class_a_z_1_1_mesh_builder_1_1_mesh_builder_vertex_attribute_layer_t.html", null ],
+      [ "AZ::MeshBuilder::MeshBuilderVertexAttributeLayerT< AZ::Vector3 >", "class_a_z_1_1_mesh_builder_1_1_mesh_builder_vertex_attribute_layer_t.html", null ],
+      [ "AZ::MeshBuilder::MeshBuilderVertexAttributeLayerT< AZ::Vector4 >", "class_a_z_1_1_mesh_builder_1_1_mesh_builder_vertex_attribute_layer_t.html", null ],
+      [ "AZ::MeshBuilder::MeshBuilderVertexAttributeLayerT< AZ::u32 >", "class_a_z_1_1_mesh_builder_1_1_mesh_builder_vertex_attribute_layer_t.html", null ],
+      [ "AZ::MeshBuilder::MeshBuilderVertexAttributeLayerT< float >", "class_a_z_1_1_mesh_builder_1_1_mesh_builder_vertex_attribute_layer_t.html", null ],
       [ "AZ::MeshBuilder::MeshBuilderVertexAttributeLayerT< AttribType >", "class_a_z_1_1_mesh_builder_1_1_mesh_builder_vertex_attribute_layer_t.html", null ]
     ] ],
     [ "AZ::MeshBuilder::MeshBuilderVertexAttributeLayerT< AttribType >::Vertex", "struct_a_z_1_1_mesh_builder_1_1_mesh_builder_vertex_attribute_layer_t_1_1_vertex.html", null ],

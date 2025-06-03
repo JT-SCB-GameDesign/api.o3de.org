@@ -338,7 +338,7 @@ var namespace_az_framework =
     [ "CommandFunction", "namespace_az_framework.html#aac290955748e7fb8d6a03761c056f561", null ],
     [ "DebugDisplayRequestBus", "namespace_az_framework.html#aa6e4f6a3920853dfe525ae98d280e75d", null ],
     [ "EntityContextEventBus", "namespace_az_framework.html#a037159aefaf2fbd89473af0ca831a9b2", null ],
-    [ "EntityContextId", "namespace_az_framework.html#a2308470bf1f45a404eb4721cab683cb2", null ],
+    [ "EntityContextId", "namespace_az_framework.html#ae0b0498b5afbe5443ee4641c4fcd4f76", null ],
     [ "EntityContextRequestBus", "namespace_az_framework.html#a988a9dbbd11b953ebbec005d3507794e", null ],
     [ "EntityIdContextQueryBus", "namespace_az_framework.html#ae4779f9aaaa1fcb62f623e7d548a50da", null ],
     [ "GameEntityContextEventBus", "namespace_az_framework.html#a95d7626125aedb8cf16e0d7a224d836e", null ],

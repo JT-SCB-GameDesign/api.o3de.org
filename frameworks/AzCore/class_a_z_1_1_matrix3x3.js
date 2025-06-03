@@ -38,7 +38,9 @@ var class_a_z_1_1_matrix3x3 =
     [ "Reflect", "class_a_z_1_1_matrix3x3.html#a130bc5e8e3bb3b605fb322bfe03a248f", null ],
     [ "RetrieveScale", "class_a_z_1_1_matrix3x3.html#a578fbc4f1835280185a76ffadd83ba5e", null ],
     [ "RetrieveScaleSq", "class_a_z_1_1_matrix3x3.html#a9ab74e49f747566e0ff83e5a0a545976", null ],
+    [ "StoreToColumnMajorFloat11", "class_a_z_1_1_matrix3x3.html#a0d889f025428039b0c5809905792aebc", null ],
     [ "StoreToColumnMajorFloat9", "class_a_z_1_1_matrix3x3.html#a2c2c7df3ec4d33526406455e96ac80d1", null ],
+    [ "StoreToRowMajorFloat11", "class_a_z_1_1_matrix3x3.html#a8a7286eacd30a4f83edf3f83a5bb8126", null ],
     [ "StoreToRowMajorFloat9", "class_a_z_1_1_matrix3x3.html#aea1878c5f821c0731f8b7360034aad61", null ],
     [ "TransposedMultiply", "class_a_z_1_1_matrix3x3.html#ac862fff56f53da5a22ea1f862fe6e509", null ]
 ];

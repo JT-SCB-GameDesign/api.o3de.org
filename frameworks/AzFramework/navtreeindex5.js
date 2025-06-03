@@ -1,12 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"class_az_framework_1_1_input_channel_digital.html#aee3cbe1233a8589f2931b8f296e04cf5":[1,0,1,92,3],
-"class_az_framework_1_1_input_channel_digital.html#aee3cbe1233a8589f2931b8f296e04cf5":[2,0,1,100,3],
-"class_az_framework_1_1_input_channel_digital_with_position2_d.html":[1,0,1,93],
-"class_az_framework_1_1_input_channel_digital_with_position2_d.html":[2,0,1,101],
-"class_az_framework_1_1_input_channel_digital_with_position2_d.html#a161d1355a6ee8062c926e5c4783a2981":[1,0,1,93,4],
-"class_az_framework_1_1_input_channel_digital_with_position2_d.html#a161d1355a6ee8062c926e5c4783a2981":[2,0,1,101,4],
-"class_az_framework_1_1_input_channel_digital_with_position2_d.html#a36a3cb9b5975bc7cb11f96a87f0bdba1":[1,0,1,93,5],
 "class_az_framework_1_1_input_channel_digital_with_position2_d.html#a36a3cb9b5975bc7cb11f96a87f0bdba1":[2,0,1,101,5],
 "class_az_framework_1_1_input_channel_digital_with_position2_d.html#a3a8986805da9fd1422f5ebe2fb98235a":[1,0,1,93,6],
 "class_az_framework_1_1_input_channel_digital_with_position2_d.html#a3a8986805da9fd1422f5ebe2fb98235a":[2,0,1,101,6],
@@ -249,5 +242,12 @@ var NAVTREEINDEX5 =
 "class_az_framework_1_1_input_context_component_requests.html#afb97e4a74c6b4737b4ffe8f0d1cbca07":[1,0,1,107,0],
 "class_az_framework_1_1_input_context_component_requests.html#afb97e4a74c6b4737b4ffe8f0d1cbca07":[2,0,1,115,0],
 "class_az_framework_1_1_input_device.html":[1,0,1,108],
-"class_az_framework_1_1_input_device.html":[2,0,1,116]
+"class_az_framework_1_1_input_device.html":[2,0,1,116],
+"class_az_framework_1_1_input_device.html#a286c2716dd37ce9a3029e1ac258d4d0e":[1,0,1,108,9],
+"class_az_framework_1_1_input_device.html#a286c2716dd37ce9a3029e1ac258d4d0e":[2,0,1,116,9],
+"class_az_framework_1_1_input_device.html#a34f8012a36ee5c9e736712bad162fe5f":[1,0,1,108,1],
+"class_az_framework_1_1_input_device.html#a34f8012a36ee5c9e736712bad162fe5f":[2,0,1,116,1],
+"class_az_framework_1_1_input_device.html#a45a3441d6e08ad941a2212d3e2a61f9f":[1,0,1,108,8],
+"class_az_framework_1_1_input_device.html#a45a3441d6e08ad941a2212d3e2a61f9f":[2,0,1,116,8],
+"class_az_framework_1_1_input_device.html#a504d767255cfbe1a023cbf420091ec28":[1,0,1,108,6]
 };

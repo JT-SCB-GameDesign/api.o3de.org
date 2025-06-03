@@ -1,16 +1,8 @@
 var NAVTREEINDEX21 =
 {
-"class_a_z_1_1_serialize_context.html#ab464826d595a37878a549f7a531c94bb":[7,0,0,449,16],
-"class_a_z_1_1_serialize_context.html#ab4e7fcc55e0af44f3d2ee7b93aa59be6":[6,0,0,423,22],
-"class_a_z_1_1_serialize_context.html#ab4e7fcc55e0af44f3d2ee7b93aa59be6":[7,0,0,449,22],
-"class_a_z_1_1_serialize_context.html#ab87c6b5421e817cff300b3942e0303b9":[6,0,0,423,39],
-"class_a_z_1_1_serialize_context.html#ab87c6b5421e817cff300b3942e0303b9":[7,0,0,449,39],
-"class_a_z_1_1_serialize_context.html#ab9772098d0d05d9454965bbdc20b69b8":[6,0,0,423,18],
-"class_a_z_1_1_serialize_context.html#ab9772098d0d05d9454965bbdc20b69b8":[7,0,0,449,18],
-"class_a_z_1_1_serialize_context.html#ac2c509f97af0dfa256bb6e789f581057":[6,0,0,423,26],
-"class_a_z_1_1_serialize_context.html#ac2c509f97af0dfa256bb6e789f581057":[7,0,0,449,26],
-"class_a_z_1_1_serialize_context.html#ac59bea4d40901d855417284964b2cda5":[6,0,0,423,28],
 "class_a_z_1_1_serialize_context.html#ac59bea4d40901d855417284964b2cda5":[7,0,0,449,28],
+"class_a_z_1_1_serialize_context.html#ac7de1696d241d98d62f9d7d21c0f9826":[6,0,0,423,17],
+"class_a_z_1_1_serialize_context.html#ac7de1696d241d98d62f9d7d21c0f9826":[7,0,0,449,17],
 "class_a_z_1_1_serialize_context.html#ad7dda5cd60689645dd12643a78fe97a5":[6,0,0,423,40],
 "class_a_z_1_1_serialize_context.html#ad7dda5cd60689645dd12643a78fe97a5":[7,0,0,449,40],
 "class_a_z_1_1_serialize_context.html#adca3c04d0a777cdd2d4b896e05b5f973":[6,0,0,423,24],
@@ -249,5 +241,13 @@ var NAVTREEINDEX21 =
 "class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1shared__ptr_3_01_t_01_4_01_4_1_1_generic_class_shared_ptr.html#afbfaa1f10d44d9adbcd33c6012ca1ecc":[7,0,0,463,0,0],
 "class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1tuple_3_01_types_8_8_8_01_4_01_4_1_1_generic_class_tuple.html":[6,0,0,438,0],
 "class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1tuple_3_01_types_8_8_8_01_4_01_4_1_1_generic_class_tuple.html":[7,0,0,464,0],
-"class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1tuple_3_01_types_8_8_8_01_4_01_4_1_1_generic_class_tuple.html#a43e980466dd5edeb6df732690241575e":[6,0,0,438,0,3]
+"class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1tuple_3_01_types_8_8_8_01_4_01_4_1_1_generic_class_tuple.html#a43e980466dd5edeb6df732690241575e":[6,0,0,438,0,3],
+"class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1tuple_3_01_types_8_8_8_01_4_01_4_1_1_generic_class_tuple.html#a43e980466dd5edeb6df732690241575e":[7,0,0,464,0,3],
+"class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1tuple_3_01_types_8_8_8_01_4_01_4_1_1_generic_class_tuple.html#a764f797541319909616a1856941e7465":[6,0,0,438,0,2],
+"class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1tuple_3_01_types_8_8_8_01_4_01_4_1_1_generic_class_tuple.html#a764f797541319909616a1856941e7465":[7,0,0,464,0,2],
+"class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1tuple_3_01_types_8_8_8_01_4_01_4_1_1_generic_class_tuple.html#a940f012dfccb29cd01f48c8188d0d4a0":[6,0,0,438,0,1],
+"class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1tuple_3_01_types_8_8_8_01_4_01_4_1_1_generic_class_tuple.html#a940f012dfccb29cd01f48c8188d0d4a0":[7,0,0,464,0,1],
+"class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1tuple_3_01_types_8_8_8_01_4_01_4_1_1_generic_class_tuple.html#ac766fbc8a0b53a037113d84931d2bbab":[6,0,0,438,0,0],
+"class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1tuple_3_01_types_8_8_8_01_4_01_4_1_1_generic_class_tuple.html#ac766fbc8a0b53a037113d84931d2bbab":[7,0,0,464,0,0],
+"class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1unique__ptr_3_01_t_00_01_deleter_01_4_3cad05a4cf3ac1a155f958650f0541b9.html":[6,0,0,439,0]
 };

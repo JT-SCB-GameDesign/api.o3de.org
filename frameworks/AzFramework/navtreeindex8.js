@@ -1,12 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a26d3d880275150cd723c9326d33a8d0c":[1,0,1,122,0,8],
-"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a26d3d880275150cd723c9326d33a8d0c":[2,0,1,130,0,8],
-"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a2ac2e3513fef9747497a88b976f96e3d":[1,0,1,122,0,6],
-"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a2ac2e3513fef9747497a88b976f96e3d":[2,0,1,130,0,6],
-"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a2b7ab5a4d1a25e44213f29d0efa10c34":[1,0,1,122,0,1],
-"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a2b7ab5a4d1a25e44213f29d0efa10c34":[2,0,1,130,0,1],
-"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a41ccc651b9afa01cbd2f14259c2086b0":[1,0,1,122,0,7],
 "class_az_framework_1_1_input_device_touch_1_1_implementation.html#a41ccc651b9afa01cbd2f14259c2086b0":[2,0,1,130,0,7],
 "class_az_framework_1_1_input_device_touch_1_1_implementation.html#a53d8ae64eb35cc5d758b8bda838fda9d":[1,0,1,122,0,4],
 "class_az_framework_1_1_input_device_touch_1_1_implementation.html#a53d8ae64eb35cc5d758b8bda838fda9d":[2,0,1,130,0,4],
@@ -249,5 +242,12 @@ var NAVTREEINDEX8 =
 "class_az_framework_1_1_input_system_cursor_requests.html#a22c7d78f8ceddb3bcef72533758ff357":[1,0,1,133,4],
 "class_az_framework_1_1_input_system_cursor_requests.html#a22c7d78f8ceddb3bcef72533758ff357":[2,0,1,141,4],
 "class_az_framework_1_1_input_system_cursor_requests.html#a2b0ca4f804cbdfc83848228dfa786de8":[1,0,1,133,7],
-"class_az_framework_1_1_input_system_cursor_requests.html#a2b0ca4f804cbdfc83848228dfa786de8":[2,0,1,141,7]
+"class_az_framework_1_1_input_system_cursor_requests.html#a2b0ca4f804cbdfc83848228dfa786de8":[2,0,1,141,7],
+"class_az_framework_1_1_input_system_cursor_requests.html#a6eac938725cb7d0659a94a6128ad3a41":[1,0,1,133,3],
+"class_az_framework_1_1_input_system_cursor_requests.html#a6eac938725cb7d0659a94a6128ad3a41":[2,0,1,141,3],
+"class_az_framework_1_1_input_system_cursor_requests.html#a9d63dc20f5b24cc5eaa84e1b377baf40":[1,0,1,133,2],
+"class_az_framework_1_1_input_system_cursor_requests.html#a9d63dc20f5b24cc5eaa84e1b377baf40":[2,0,1,141,2],
+"class_az_framework_1_1_input_system_cursor_requests.html#aa9d6d4dab82e05865ea37a206cfb7cdc":[1,0,1,133,0],
+"class_az_framework_1_1_input_system_cursor_requests.html#aa9d6d4dab82e05865ea37a206cfb7cdc":[2,0,1,141,0],
+"class_az_framework_1_1_input_system_cursor_requests.html#ab1bf71cdc85ca95e40a2e93d6103d147":[1,0,1,133,5]
 };

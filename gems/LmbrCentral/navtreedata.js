@@ -60,5 +60,6 @@ var NAVTREEINDEX =
 "namespace_lmbr_central_1_1_polygon_prism_util.html#a56800d95e651a496d319671877e711b9"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';

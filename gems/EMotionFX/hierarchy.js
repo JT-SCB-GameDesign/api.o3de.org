@@ -179,7 +179,6 @@ var hierarchy =
       [ "EMotionFX::Pipeline::Rule::IMotionCompressionSettingsRule", "class_e_motion_f_x_1_1_pipeline_1_1_rule_1_1_i_motion_compression_settings_rule.html", [
         [ "EMotionFX::Pipeline::Rule::MotionCompressionSettingsRule", "class_e_motion_f_x_1_1_pipeline_1_1_rule_1_1_motion_compression_settings_rule.html", null ]
       ] ],
-      [ "EMotionFX::Pipeline::Rule::LodRule", "class_e_motion_f_x_1_1_pipeline_1_1_rule_1_1_lod_rule.html", null ],
       [ "EMotionFX::Pipeline::Rule::MetaDataRule", "class_e_motion_f_x_1_1_pipeline_1_1_rule_1_1_meta_data_rule.html", null ],
       [ "EMotionFX::Pipeline::Rule::MorphTargetRuleReadOnly", "class_e_motion_f_x_1_1_pipeline_1_1_rule_1_1_morph_target_rule_read_only.html", null ],
       [ "EMotionFX::Pipeline::Rule::MotionAdditiveRule", "class_e_motion_f_x_1_1_pipeline_1_1_rule_1_1_motion_additive_rule.html", null ],
@@ -189,12 +188,15 @@ var hierarchy =
     ] ],
     [ "AZ::SceneAPI::Events::AssetImportRequestBus::Handler", null, [
       [ "EMotionFX::Pipeline::Behavior::ActorGroupBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_actor_group_behavior.html", null ],
+      [ "EMotionFX::Pipeline::Behavior::LodRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_lod_rule_behavior.html", null ],
       [ "EMotionFX::Pipeline::Behavior::MorphTargetRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_morph_target_rule_behavior.html", null ],
       [ "EMotionFX::Pipeline::Behavior::MotionGroupBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_motion_group_behavior.html", null ],
-      [ "EMotionFX::Pipeline::Behavior::MotionRangeRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_motion_range_rule_behavior.html", null ]
+      [ "EMotionFX::Pipeline::Behavior::MotionRangeRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_motion_range_rule_behavior.html", null ],
+      [ "EMotionFX::Pipeline::Behavior::SkeletonOptimizationRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_skeleton_optimization_rule_behavior.html", null ]
     ] ],
     [ "AZ::SceneAPI::Events::GraphMetaInfoBus::Handler", null, [
-      [ "EMotionFX::Pipeline::Behavior::ActorGroupBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_actor_group_behavior.html", null ]
+      [ "EMotionFX::Pipeline::Behavior::ActorGroupBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_actor_group_behavior.html", null ],
+      [ "EMotionFX::Pipeline::Behavior::LodRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_lod_rule_behavior.html", null ]
     ] ],
     [ "AZ::SceneAPI::Events::ICallContext", null, [
       [ "EMotionFX::Pipeline::ActorBuilderContext", "struct_e_motion_f_x_1_1_pipeline_1_1_actor_builder_context.html", null ],
@@ -205,10 +207,12 @@ var hierarchy =
     ] ],
     [ "AZ::SceneAPI::Events::ManifestMetaInfoBus::Handler", null, [
       [ "EMotionFX::Pipeline::Behavior::ActorGroupBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_actor_group_behavior.html", null ],
+      [ "EMotionFX::Pipeline::Behavior::LodRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_lod_rule_behavior.html", null ],
       [ "EMotionFX::Pipeline::Behavior::MorphTargetRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_morph_target_rule_behavior.html", null ],
       [ "EMotionFX::Pipeline::Behavior::MotionGroupBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_motion_group_behavior.html", null ],
       [ "EMotionFX::Pipeline::Behavior::MotionRangeRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_motion_range_rule_behavior.html", null ],
-      [ "EMotionFX::Pipeline::Behavior::RootMotionExtractionRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_root_motion_extraction_rule_behavior.html", null ]
+      [ "EMotionFX::Pipeline::Behavior::RootMotionExtractionRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_root_motion_extraction_rule_behavior.html", null ],
+      [ "EMotionFX::Pipeline::Behavior::SkeletonOptimizationRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_skeleton_optimization_rule_behavior.html", null ]
     ] ],
     [ "AZ::SceneAPI::SceneCore::BehaviorComponent", null, [
       [ "EMotionFX::Pipeline::Behavior::ActorGroupBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_actor_group_behavior.html", null ],
@@ -227,18 +231,6 @@ var hierarchy =
       [ "EMotionFX::Pipeline::MotionDataBuilder", "class_e_motion_f_x_1_1_pipeline_1_1_motion_data_builder.html", null ],
       [ "EMotionFX::Pipeline::MotionExporter", "class_e_motion_f_x_1_1_pipeline_1_1_motion_exporter.html", null ],
       [ "EMotionFX::Pipeline::MotionGroupExporter", "class_e_motion_f_x_1_1_pipeline_1_1_motion_group_exporter.html", null ]
-    ] ],
-    [ "AZ::SceneAPI::SceneData::SceneNodeSelectionList", null, [
-      [ "EMotionFX::Pipeline::Data::LodNodeSelectionList", "class_e_motion_f_x_1_1_pipeline_1_1_data_1_1_lod_node_selection_list.html", null ]
-    ] ],
-    [ "AZ::SceneAPI::UI::NodeTreeSelectionHandler", null, [
-      [ "EMotionFX::Pipeline::UI::LODTreeSelectionHandler", "class_e_motion_f_x_1_1_pipeline_1_1_u_i_1_1_l_o_d_tree_selection_handler.html", null ]
-    ] ],
-    [ "AZ::SceneAPI::UI::NodeTreeSelectionWidget", null, [
-      [ "EMotionFX::Pipeline::UI::LODTreeSelectionWidget", "class_e_motion_f_x_1_1_pipeline_1_1_u_i_1_1_l_o_d_tree_selection_widget.html", null ]
-    ] ],
-    [ "AZ::SceneAPI::UI::SceneGraphWidget", null, [
-      [ "EMotionFX::Pipeline::UI::LODSceneGraphWidget", "class_e_motion_f_x_1_1_pipeline_1_1_u_i_1_1_l_o_d_scene_graph_widget.html", null ]
     ] ],
     [ "AZ::SerializeGenericTypeInfo< AZStd::shared_ptr< const EMotionFX::EventData > >", "struct_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1shared__ptr_3_01const_01_e_motion_f_x_1_1_event_data_01_4_01_4.html", null ],
     [ "AZ::ThreadPoolBase", null, [
@@ -331,6 +323,8 @@ var hierarchy =
       [ "EMotionFX::RagdollJointLimitPropertyNotify", "class_e_motion_f_x_1_1_ragdoll_joint_limit_property_notify.html", null ]
     ] ],
     [ "AzToolsFramework::PropertyHandler", null, [
+      [ "EMotionFX::ActorJointElementHandlerImpl< AZStd::string >", "class_e_motion_f_x_1_1_actor_joint_element_handler_impl.html", null ],
+      [ "EMotionFX::ActorJointElementHandlerImpl< AZStd::pair< AZStd::string, float > >", "class_e_motion_f_x_1_1_actor_joint_element_handler_impl.html", null ],
       [ "EMotionFX::ActorGoalNodeHandler", "class_e_motion_f_x_1_1_actor_goal_node_handler.html", null ],
       [ "EMotionFX::ActorJointElementHandlerImpl< T >", "class_e_motion_f_x_1_1_actor_joint_element_handler_impl.html", null ],
       [ "EMotionFX::ActorMultiJointHandler", "class_e_motion_f_x_1_1_actor_multi_joint_handler.html", null ],
@@ -640,9 +634,6 @@ var hierarchy =
     [ "EMotionFX::Integration::CVars", "class_e_motion_f_x_1_1_integration_1_1_c_vars.html", null ],
     [ "EMotionFX::Integration::EditorAudioTriggerEvent", "struct_e_motion_f_x_1_1_integration_1_1_editor_audio_trigger_event.html", null ],
     [ "EMotionFX::Integration::EMotionFXPtr< ObjectType >", "class_e_motion_f_x_1_1_integration_1_1_e_motion_f_x_ptr.html", null ],
-    [ "EMotionFX::Integration::EMotionFXPtr< EMotionFX::ActorInstance >", "class_e_motion_f_x_1_1_integration_1_1_e_motion_f_x_ptr.html", null ],
-    [ "EMotionFX::Integration::EMotionFXPtr< EMotionFX::AnimGraphInstance >", "class_e_motion_f_x_1_1_integration_1_1_e_motion_f_x_ptr.html", null ],
-    [ "EMotionFX::Integration::EMotionFXPtr< EMotionFX::Motion >", "class_e_motion_f_x_1_1_integration_1_1_e_motion_f_x_ptr.html", null ],
     [ "EMotionFX::Integration::IRaycastRequests", "class_e_motion_f_x_1_1_integration_1_1_i_raycast_requests.html", [
       [ "EMotionFX::Integration::SystemComponent", "class_e_motion_f_x_1_1_integration_1_1_system_component.html", null ]
     ] ],
@@ -667,9 +658,6 @@ var hierarchy =
     [ "EMotionFX::KeyFrame< ReturnType, StorageType >", "class_e_motion_f_x_1_1_key_frame.html", null ],
     [ "EMotionFX::KeyFrameFinder< ReturnType, StorageType >", "class_e_motion_f_x_1_1_key_frame_finder.html", null ],
     [ "EMotionFX::KeyTrackLinearDynamic< ReturnType, StorageType >", "class_e_motion_f_x_1_1_key_track_linear_dynamic.html", null ],
-    [ "EMotionFX::KeyTrackLinearDynamic< AZ::Quaternion, AZ::Quaternion >", "class_e_motion_f_x_1_1_key_track_linear_dynamic.html", null ],
-    [ "EMotionFX::KeyTrackLinearDynamic< AZ::Vector3, AZ::Vector3 >", "class_e_motion_f_x_1_1_key_track_linear_dynamic.html", null ],
-    [ "EMotionFX::KeyTrackLinearDynamic< float, float >", "class_e_motion_f_x_1_1_key_track_linear_dynamic.html", null ],
     [ "EMotionFX::MorphMeshDeformer::DeformPass", "struct_e_motion_f_x_1_1_morph_mesh_deformer_1_1_deform_pass.html", null ],
     [ "EMotionFX::MorphSetupInstance::MorphTarget", "class_e_motion_f_x_1_1_morph_setup_instance_1_1_morph_target.html", null ],
     [ "EMotionFX::MorphTargetStandard::DeformData::VertexDelta", "struct_e_motion_f_x_1_1_morph_target_standard_1_1_deform_data_1_1_vertex_delta.html", null ],
@@ -710,9 +698,6 @@ var hierarchy =
     [ "EMotionFX::NodeGroup", "class_e_motion_f_x_1_1_node_group.html", null ],
     [ "EMotionFX::NodeMap::MapEntry", "struct_e_motion_f_x_1_1_node_map_1_1_map_entry.html", null ],
     [ "EMotionFX::NonUniformMotionData::KeyTrack< T >", "struct_e_motion_f_x_1_1_non_uniform_motion_data_1_1_key_track.html", null ],
-    [ "EMotionFX::NonUniformMotionData::KeyTrack< AZ::Vector3 >", "struct_e_motion_f_x_1_1_non_uniform_motion_data_1_1_key_track.html", null ],
-    [ "EMotionFX::NonUniformMotionData::KeyTrack< float >", "struct_e_motion_f_x_1_1_non_uniform_motion_data_1_1_key_track.html", null ],
-    [ "EMotionFX::NonUniformMotionData::KeyTrack< MCore::Compressed16BitQuaternion >", "struct_e_motion_f_x_1_1_non_uniform_motion_data_1_1_key_track.html", null ],
     [ "EMotionFX::ObjectAffectedByParameterChanges", "class_e_motion_f_x_1_1_object_affected_by_parameter_changes.html", [
       [ "EMotionFX::AnimGraphParameterAction", "class_e_motion_f_x_1_1_anim_graph_parameter_action.html", null ],
       [ "EMotionFX::AnimGraphParameterCondition", "class_e_motion_f_x_1_1_anim_graph_parameter_condition.html", null ],
@@ -730,56 +715,43 @@ var hierarchy =
             [ "EMotionFX::TagParameter", "class_e_motion_f_x_1_1_tag_parameter.html", null ]
           ] ]
         ] ],
-        [ "EMotionFX::DefaultValueParameter< AZ::Color, RangedValueParameter< AZ::Color, ColorParameter > >", "class_e_motion_f_x_1_1_default_value_parameter.html", [
+        [ "EMotionFX::DefaultValueParameter< ValueType, RangedValueParameter< ValueType, Derived > >", "class_e_motion_f_x_1_1_default_value_parameter.html", [
+          [ "EMotionFX::RangedValueParameter< ValueType, Derived >", "class_e_motion_f_x_1_1_ranged_value_parameter.html", null ]
+        ] ],
+        [ "EMotionFX::DefaultValueParameter< AZStd::string, StringParameter >", "class_e_motion_f_x_1_1_default_value_parameter.html", [
+          [ "EMotionFX::StringParameter", "class_e_motion_f_x_1_1_string_parameter.html", null ]
+        ] ],
+        [ "EMotionFX::DefaultValueParameter< ValueType, Derived >", "class_e_motion_f_x_1_1_default_value_parameter.html", [
           [ "EMotionFX::RangedValueParameter< AZ::Color, ColorParameter >", "class_e_motion_f_x_1_1_ranged_value_parameter.html", [
             [ "EMotionFX::ColorParameter", "class_e_motion_f_x_1_1_color_parameter.html", null ]
-          ] ]
-        ] ],
-        [ "EMotionFX::DefaultValueParameter< float, RangedValueParameter< float, FloatParameter > >", "class_e_motion_f_x_1_1_default_value_parameter.html", [
+          ] ],
           [ "EMotionFX::RangedValueParameter< float, FloatParameter >", "class_e_motion_f_x_1_1_ranged_value_parameter.html", [
             [ "EMotionFX::FloatParameter", "class_e_motion_f_x_1_1_float_parameter.html", [
               [ "EMotionFX::FloatSliderParameter", "class_e_motion_f_x_1_1_float_slider_parameter.html", null ],
               [ "EMotionFX::FloatSpinnerParameter", "class_e_motion_f_x_1_1_float_spinner_parameter.html", null ]
             ] ]
-          ] ]
-        ] ],
-        [ "EMotionFX::DefaultValueParameter< int, RangedValueParameter< int, IntParameter > >", "class_e_motion_f_x_1_1_default_value_parameter.html", [
+          ] ],
           [ "EMotionFX::RangedValueParameter< int, IntParameter >", "class_e_motion_f_x_1_1_ranged_value_parameter.html", [
             [ "EMotionFX::IntParameter", "class_e_motion_f_x_1_1_int_parameter.html", [
               [ "EMotionFX::IntSliderParameter", "class_e_motion_f_x_1_1_int_slider_parameter.html", null ],
               [ "EMotionFX::IntSpinnerParameter", "class_e_motion_f_x_1_1_int_spinner_parameter.html", null ]
             ] ]
-          ] ]
-        ] ],
-        [ "EMotionFX::DefaultValueParameter< ValueType, RangedValueParameter< ValueType, Derived > >", "class_e_motion_f_x_1_1_default_value_parameter.html", [
-          [ "EMotionFX::RangedValueParameter< ValueType, Derived >", "class_e_motion_f_x_1_1_ranged_value_parameter.html", null ]
-        ] ],
-        [ "EMotionFX::DefaultValueParameter< AZ::Quaternion, RangedValueParameter< AZ::Quaternion, RotationParameter > >", "class_e_motion_f_x_1_1_default_value_parameter.html", [
+          ] ],
           [ "EMotionFX::RangedValueParameter< AZ::Quaternion, RotationParameter >", "class_e_motion_f_x_1_1_ranged_value_parameter.html", [
             [ "EMotionFX::RotationParameter", "class_e_motion_f_x_1_1_rotation_parameter.html", null ]
-          ] ]
-        ] ],
-        [ "EMotionFX::DefaultValueParameter< AZStd::string, StringParameter >", "class_e_motion_f_x_1_1_default_value_parameter.html", [
-          [ "EMotionFX::StringParameter", "class_e_motion_f_x_1_1_string_parameter.html", null ]
-        ] ],
-        [ "EMotionFX::DefaultValueParameter< AZ::Vector2, RangedValueParameter< AZ::Vector2, Vector2Parameter > >", "class_e_motion_f_x_1_1_default_value_parameter.html", [
+          ] ],
           [ "EMotionFX::RangedValueParameter< AZ::Vector2, Vector2Parameter >", "class_e_motion_f_x_1_1_ranged_value_parameter.html", [
             [ "EMotionFX::Vector2Parameter", "class_e_motion_f_x_1_1_vector2_parameter.html", null ]
-          ] ]
-        ] ],
-        [ "EMotionFX::DefaultValueParameter< AZ::Vector3, RangedValueParameter< AZ::Vector3, Vector3Parameter > >", "class_e_motion_f_x_1_1_default_value_parameter.html", [
+          ] ],
           [ "EMotionFX::RangedValueParameter< AZ::Vector3, Vector3Parameter >", "class_e_motion_f_x_1_1_ranged_value_parameter.html", [
             [ "EMotionFX::Vector3Parameter", "class_e_motion_f_x_1_1_vector3_parameter.html", [
               [ "EMotionFX::Vector3GizmoParameter", "class_e_motion_f_x_1_1_vector3_gizmo_parameter.html", null ]
             ] ]
-          ] ]
-        ] ],
-        [ "EMotionFX::DefaultValueParameter< AZ::Vector4, RangedValueParameter< AZ::Vector4, Vector4Parameter > >", "class_e_motion_f_x_1_1_default_value_parameter.html", [
+          ] ],
           [ "EMotionFX::RangedValueParameter< AZ::Vector4, Vector4Parameter >", "class_e_motion_f_x_1_1_ranged_value_parameter.html", [
             [ "EMotionFX::Vector4Parameter", "class_e_motion_f_x_1_1_vector4_parameter.html", null ]
           ] ]
-        ] ],
-        [ "EMotionFX::DefaultValueParameter< ValueType, Derived >", "class_e_motion_f_x_1_1_default_value_parameter.html", null ]
+        ] ]
       ] ]
     ] ],
     [ "EMotionFX::ParameterFactory", "class_e_motion_f_x_1_1_parameter_factory.html", null ],
@@ -1018,7 +990,6 @@ var hierarchy =
     ] ],
     [ "MCore::Array2D< T >", "class_m_core_1_1_array2_d.html", null ],
     [ "MCore::Array2D< T >::TableEntry", "struct_m_core_1_1_array2_d_1_1_table_entry.html", null ],
-    [ "MCore::Array2D< EMotionFX::SkinInfluence >", "class_m_core_1_1_array2_d.html", null ],
     [ "MCore::AtomicInt32", "class_m_core_1_1_atomic_int32.html", null ],
     [ "MCore::AtomicSizeT", "class_m_core_1_1_atomic_size_t.html", null ],
     [ "MCore::AtomicUInt32", "class_m_core_1_1_atomic_u_int32.html", null ],
@@ -1311,6 +1282,8 @@ var hierarchy =
       [ "EMStudio::ZoomableLineEdit", "class_e_m_studio_1_1_zoomable_line_edit.html", null ]
     ] ],
     [ "QObject", null, [
+      [ "EMotionFX::ActorJointElementHandlerImpl< AZStd::string >", "class_e_motion_f_x_1_1_actor_joint_element_handler_impl.html", null ],
+      [ "EMotionFX::ActorJointElementHandlerImpl< AZStd::pair< AZStd::string, float > >", "class_e_motion_f_x_1_1_actor_joint_element_handler_impl.html", null ],
       [ "EMStudio::AnimGraphActionManager", "class_e_m_studio_1_1_anim_graph_action_manager.html", null ],
       [ "EMStudio::EMStudioPlugin", "class_e_m_studio_1_1_e_m_studio_plugin.html", [
         [ "EMStudio::DockWidgetPlugin", "class_e_m_studio_1_1_dock_widget_plugin.html", [
@@ -1486,16 +1459,17 @@ var hierarchy =
       ] ],
       [ "EMotionFX::TransitionStateFilterPicker", "class_e_motion_f_x_1_1_transition_state_filter_picker.html", null ]
     ] ],
-    [ "SceneEvents::AssetImportRequestBus::Handler", null, [
-      [ "EMotionFX::Pipeline::Behavior::LodRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_lod_rule_behavior.html", null ],
-      [ "EMotionFX::Pipeline::Behavior::SkeletonOptimizationRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_skeleton_optimization_rule_behavior.html", null ]
+    [ "SceneData::SceneNodeSelectionList", null, [
+      [ "EMotionFX::Pipeline::Data::LodNodeSelectionList", "class_e_motion_f_x_1_1_pipeline_1_1_data_1_1_lod_node_selection_list.html", null ]
     ] ],
-    [ "SceneEvents::GraphMetaInfoBus::Handler", null, [
-      [ "EMotionFX::Pipeline::Behavior::LodRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_lod_rule_behavior.html", null ]
+    [ "SceneUI::NodeTreeSelectionHandler", null, [
+      [ "EMotionFX::Pipeline::UI::LODTreeSelectionHandler", "class_e_motion_f_x_1_1_pipeline_1_1_u_i_1_1_l_o_d_tree_selection_handler.html", null ]
     ] ],
-    [ "SceneEvents::ManifestMetaInfoBus::Handler", null, [
-      [ "EMotionFX::Pipeline::Behavior::LodRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_lod_rule_behavior.html", null ],
-      [ "EMotionFX::Pipeline::Behavior::SkeletonOptimizationRuleBehavior", "class_e_motion_f_x_1_1_pipeline_1_1_behavior_1_1_skeleton_optimization_rule_behavior.html", null ]
+    [ "SceneUI::NodeTreeSelectionWidget", null, [
+      [ "EMotionFX::Pipeline::UI::LODTreeSelectionWidget", "class_e_motion_f_x_1_1_pipeline_1_1_u_i_1_1_l_o_d_tree_selection_widget.html", null ]
+    ] ],
+    [ "SceneUI::SceneGraphWidget", null, [
+      [ "EMotionFX::Pipeline::UI::LODSceneGraphWidget", "class_e_motion_f_x_1_1_pipeline_1_1_u_i_1_1_l_o_d_scene_graph_widget.html", null ]
     ] ],
     [ "SelectionItem", "struct_selection_item.html", null ],
     [ "SimpleMotionComponentRequestBus::Handler", null, [

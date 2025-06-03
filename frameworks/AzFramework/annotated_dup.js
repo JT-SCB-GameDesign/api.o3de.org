@@ -263,7 +263,7 @@ var annotated_dup =
         [ "RayResultClosestAggregator", "struct_az_framework_1_1_render_geometry_1_1_ray_result_closest_aggregator.html", null ]
       ] ],
       [ "Scripts", null, [
-        [ "SpawnableScriptAssetRef", "class_az_framework_1_1_scripts_1_1_spawnable_script_asset_ref.html", null ],
+        [ "SpawnableScriptAssetRef", "class_az_framework_1_1_scripts_1_1_spawnable_script_asset_ref.html", "class_az_framework_1_1_scripts_1_1_spawnable_script_asset_ref" ],
         [ "SpawnableScriptMediator", "class_az_framework_1_1_scripts_1_1_spawnable_script_mediator.html", "class_az_framework_1_1_scripts_1_1_spawnable_script_mediator" ],
         [ "SpawnableScriptNotifications", "class_az_framework_1_1_scripts_1_1_spawnable_script_notifications.html", "class_az_framework_1_1_scripts_1_1_spawnable_script_notifications" ],
         [ "SpawnableScriptNotificationsHandler", "struct_az_framework_1_1_scripts_1_1_spawnable_script_notifications_handler.html", null ]

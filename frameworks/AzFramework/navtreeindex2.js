@@ -1,12 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"class_az_framework_1_1_asset_system_1_1_get_relative_product_path_from_full_source_or_product_path_response.html":[2,0,1,0,52],
-"class_az_framework_1_1_asset_system_1_1_get_relative_product_path_from_full_source_or_product_path_response.html#a8481fe3f60f4617875429a63ac9515c3":[2,0,1,0,52,0],
-"class_az_framework_1_1_asset_system_1_1_negotiation_message.html":[2,0,1,0,55],
-"class_az_framework_1_1_asset_system_1_1_negotiation_message.html#a5d10951a5ac19a19a09ebcd9f2b6fe69":[2,0,1,0,55,0],
-"class_az_framework_1_1_asset_system_1_1_network_asset_update_interface.html":[2,0,1,0,56],
-"class_az_framework_1_1_asset_system_1_1_network_asset_update_interface.html#a1b3a20e53bbec426c76de0f96c823c4e":[2,0,1,0,56,1],
-"class_az_framework_1_1_asset_system_1_1_network_asset_update_interface.html#a8cce7031a4301bcd9d7ff8a34adc4149":[2,0,1,0,56,0],
 "class_az_framework_1_1_asset_system_1_1_network_asset_update_interface.html#ace27b4d0459f72256b7023e9084ad979":[2,0,1,0,56,2],
 "class_az_framework_1_1_asset_system_1_1_path_create_request.html":[2,0,1,0,57],
 "class_az_framework_1_1_asset_system_1_1_path_create_request.html#aacfe0b8700eb4abdbc882b7b3bef4772":[2,0,1,0,57,0],
@@ -249,5 +242,12 @@ var NAVTREEINDEX2 =
 "class_az_framework_1_1_device_attribute_device_model.html#a36f273cc3c5dd0f51ac77ac4b3bcc1c8":[2,0,1,58,0],
 "class_az_framework_1_1_device_attribute_device_model.html#a458eecff1977b1906a9a5003afe7531f":[1,0,1,50,1],
 "class_az_framework_1_1_device_attribute_device_model.html#a458eecff1977b1906a9a5003afe7531f":[2,0,1,58,1],
-"class_az_framework_1_1_device_attribute_device_model.html#aab7e6a697a6b1d5e93401a4b201c582a":[1,0,1,50,2]
+"class_az_framework_1_1_device_attribute_device_model.html#aab7e6a697a6b1d5e93401a4b201c582a":[1,0,1,50,2],
+"class_az_framework_1_1_device_attribute_device_model.html#aab7e6a697a6b1d5e93401a4b201c582a":[2,0,1,58,2],
+"class_az_framework_1_1_device_attribute_device_model.html#afe590ab097aff0d776ec67b922db56f0":[1,0,1,50,3],
+"class_az_framework_1_1_device_attribute_device_model.html#afe590ab097aff0d776ec67b922db56f0":[2,0,1,58,3],
+"class_az_framework_1_1_device_attribute_g_p_u_model.html":[1,0,1,51],
+"class_az_framework_1_1_device_attribute_g_p_u_model.html":[2,0,1,59],
+"class_az_framework_1_1_device_attribute_g_p_u_model.html#a24c4da5d2a380aba66ffa5aa665dc1cb":[1,0,1,51,0],
+"class_az_framework_1_1_device_attribute_g_p_u_model.html#a24c4da5d2a380aba66ffa5aa665dc1cb":[2,0,1,59,0]
 };

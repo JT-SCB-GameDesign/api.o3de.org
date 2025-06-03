@@ -5,5 +5,7 @@ var class_a_z_1_1_render_1_1_post_process_feature_processor =
     [ "GetOrCreateSettingsInterface", "class_a_z_1_1_render_1_1_post_process_feature_processor.html#a0a1caeee1feea82af990b07a05d7ebe4", null ],
     [ "GetSettingsInterface", "class_a_z_1_1_render_1_1_post_process_feature_processor.html#a3acb82fc289b2fb15120cce4f6c463e6", null ],
     [ "OnPostProcessSettingsChanged", "class_a_z_1_1_render_1_1_post_process_feature_processor.html#adfce583b63e0002733e043d51c499a0a", null ],
-    [ "RemoveSettingsInterface", "class_a_z_1_1_render_1_1_post_process_feature_processor.html#a36d70f3bf771a5c6e8b8be3a6fd6683c", null ]
+    [ "RemoveSettingsInterface", "class_a_z_1_1_render_1_1_post_process_feature_processor.html#a36d70f3bf771a5c6e8b8be3a6fd6683c", null ],
+    [ "RemoveViewAlias", "class_a_z_1_1_render_1_1_post_process_feature_processor.html#a24071459bb30427d1891b9729f4025d7", null ],
+    [ "SetViewAlias", "class_a_z_1_1_render_1_1_post_process_feature_processor.html#afee67ff96bef90f3332883884ece3807", null ]
 ];

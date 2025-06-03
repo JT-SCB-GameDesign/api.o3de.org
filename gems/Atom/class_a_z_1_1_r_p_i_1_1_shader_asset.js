@@ -20,5 +20,7 @@ var class_a_z_1_1_r_p_i_1_1_shader_asset =
     [ "GetSupervariantName", "class_a_z_1_1_r_p_i_1_1_shader_asset.html#aab2d6943ea4f06a006f342ec399691dc", null ],
     [ "GetVariantAsset", "class_a_z_1_1_r_p_i_1_1_shader_asset.html#a719c464287cd1045890f44bf7bc922c1", null ],
     [ "GetVariantAsset", "class_a_z_1_1_r_p_i_1_1_shader_asset.html#a87ea5f9faaf1e282c10a8900024fa5b3", null ],
-    [ "RootShaderVariantStableId", "class_a_z_1_1_r_p_i_1_1_shader_asset.html#a055e2a0a847af8ce597d8e83653a68d1", null ]
+    [ "IsFullySpecialized", "class_a_z_1_1_r_p_i_1_1_shader_asset.html#a74b40855cc7cb5f9281fdc09f1f5a4de", null ],
+    [ "UseSpecializationConstants", "class_a_z_1_1_r_p_i_1_1_shader_asset.html#a61fbc0c3060a911def21ab66637b645c", null ],
+    [ "RootShaderVariantStableId", "class_a_z_1_1_r_p_i_1_1_shader_asset.html#a71168e74b4eac95b857f181406a300f0", null ]
 ];

@@ -12,5 +12,7 @@ var class_a_z_1_1_r_p_i_1_1_shader_option_group_layout =
     [ "GetShaderOptionCount", "class_a_z_1_1_r_p_i_1_1_shader_option_group_layout.html#a7d8d8f21039dd27c4410d517ed29f83d", null ],
     [ "GetShaderOptions", "class_a_z_1_1_r_p_i_1_1_shader_option_group_layout.html#aa03055414bfed3014c4b4699b1edf7a6", null ],
     [ "IsFinalized", "class_a_z_1_1_r_p_i_1_1_shader_option_group_layout.html#a4e5167623f7090a36a3b8b235dbace00", null ],
-    [ "IsValidShaderVariantKey", "class_a_z_1_1_r_p_i_1_1_shader_option_group_layout.html#a2e9f03cbfaba2054f5f11c9f3fc3683d", null ]
+    [ "IsFullySpecialized", "class_a_z_1_1_r_p_i_1_1_shader_option_group_layout.html#a4855e98cea4c3b48877e70b30ac8db71", null ],
+    [ "IsValidShaderVariantKey", "class_a_z_1_1_r_p_i_1_1_shader_option_group_layout.html#a2e9f03cbfaba2054f5f11c9f3fc3683d", null ],
+    [ "UseSpecializationConstants", "class_a_z_1_1_r_p_i_1_1_shader_option_group_layout.html#ac896beda15f22c29fba3f07bff8fa0bd", null ]
 ];

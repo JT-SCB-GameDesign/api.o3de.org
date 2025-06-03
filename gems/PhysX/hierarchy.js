@@ -300,7 +300,6 @@ var hierarchy =
     ] ],
     [ "AzToolsFramework::IPropertyEditorNotify", null, [
       [ "PhysX::Editor::CollisionLayersWidget", "class_phys_x_1_1_editor_1_1_collision_layers_widget.html", null ],
-      [ "PhysX::Editor::PvdWidget", "class_phys_x_1_1_editor_1_1_pvd_widget.html", null ],
       [ "PhysX::Editor::SettingsWidget", "class_phys_x_1_1_editor_1_1_settings_widget.html", null ]
     ] ],
     [ "AzToolsFramework::Prefab::PrefabConversionUtils::PrefabProcessor", null, [
@@ -638,7 +637,6 @@ var hierarchy =
       [ "PhysX::Editor::ColumnHeader", "class_phys_x_1_1_editor_1_1_column_header.html", null ],
       [ "PhysX::Editor::ConfigurationWidget", "class_phys_x_1_1_editor_1_1_configuration_widget.html", null ],
       [ "PhysX::Editor::EditorWindow", "class_phys_x_1_1_editor_1_1_editor_window.html", null ],
-      [ "PhysX::Editor::PvdWidget", "class_phys_x_1_1_editor_1_1_pvd_widget.html", null ],
       [ "PhysX::Editor::RowHeader", "class_phys_x_1_1_editor_1_1_row_header.html", null ],
       [ "PhysX::Editor::SettingsWidget", "class_phys_x_1_1_editor_1_1_settings_widget.html", null ]
     ] ]

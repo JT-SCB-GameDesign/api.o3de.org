@@ -5,6 +5,8 @@ var class_a_z_1_1_render_1_1_disk_light_feature_processor =
     [ "CloneLight", "class_a_z_1_1_render_1_1_disk_light_feature_processor.html#a0c13b9d3dd3f7b9bbbf978534c51dcf9", null ],
     [ "Deactivate", "class_a_z_1_1_render_1_1_disk_light_feature_processor.html#aae2d1f3e45505b6deb9c66b8f0d7118a", null ],
     [ "GetDiskData", "class_a_z_1_1_render_1_1_disk_light_feature_processor.html#a631262a53866384b10019c2d9d937830", null ],
+    [ "GetLightBuffer", "class_a_z_1_1_render_1_1_disk_light_feature_processor.html#ad532e1e7d7ed3d14979281897359d265", null ],
+    [ "GetLightCount", "class_a_z_1_1_render_1_1_disk_light_feature_processor.html#afd1fbb05c8b1da835fe1dd03b1e5dafe", null ],
     [ "ReleaseLight", "class_a_z_1_1_render_1_1_disk_light_feature_processor.html#ad18fe92e9f756ad2cfee5e2efa564491", null ],
     [ "Render", "class_a_z_1_1_render_1_1_disk_light_feature_processor.html#aba8ed963e9df1fff96f2cfdb512a6b7f", null ],
     [ "SetAffectsGI", "class_a_z_1_1_render_1_1_disk_light_feature_processor.html#a77048fbd81866ffbfa962ad0282da711", null ],

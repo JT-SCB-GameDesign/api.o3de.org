@@ -1,7 +1,5 @@
 var NAVTREEINDEX20 =
 {
-"struct_az_framework_1_1_input_device_keyboard_1_1_key.html#a74375dfefafa295965dbf3a8351b5e72":[2,0,1,123,2,81],
-"struct_az_framework_1_1_input_device_keyboard_1_1_key.html#a76e59ccfee3974861f2b565ada58d7b9":[1,0,1,115,2,15],
 "struct_az_framework_1_1_input_device_keyboard_1_1_key.html#a76e59ccfee3974861f2b565ada58d7b9":[2,0,1,123,2,15],
 "struct_az_framework_1_1_input_device_keyboard_1_1_key.html#a78bc23528d38c92ae46fe953aac9e90e":[1,0,1,115,2,36],
 "struct_az_framework_1_1_input_device_keyboard_1_1_key.html#a78bc23528d38c92ae46fe953aac9e90e":[2,0,1,123,2,36],
@@ -249,5 +247,7 @@ var NAVTREEINDEX20 =
 "struct_az_framework_1_1_input_mapping_1_1_input_channel_name_filtered_by_device_type.html#a9d984136c5d9b828f60b855f58012ebf":[2,0,1,134,2,1],
 "struct_az_framework_1_1_input_mapping_1_1_input_channel_name_filtered_by_device_type.html#aa9ae5e4f19a8d6737e3e314a3b82252b":[1,0,1,126,2,3],
 "struct_az_framework_1_1_input_mapping_1_1_input_channel_name_filtered_by_device_type.html#aa9ae5e4f19a8d6737e3e314a3b82252b":[2,0,1,134,2,3],
-"struct_az_framework_1_1_input_state.html":[1,0,1,130]
+"struct_az_framework_1_1_input_state.html":[1,0,1,130],
+"struct_az_framework_1_1_input_state.html":[2,0,1,138],
+"struct_az_framework_1_1_input_text_entry_requests_1_1_virtual_keyboard_options.html":[1,0,1,136,0]
 };

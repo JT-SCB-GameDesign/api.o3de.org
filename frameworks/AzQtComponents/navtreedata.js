@@ -61,5 +61,6 @@ var NAVTREEINDEX =
 "struct_az_qt_components_1_1_line_edit_1_1_config.html#a48ef748995235de427b96fe2f32fa324"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';

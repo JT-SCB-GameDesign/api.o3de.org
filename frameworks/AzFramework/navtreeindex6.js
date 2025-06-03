@@ -1,12 +1,5 @@
 var NAVTREEINDEX6 =
 {
-"class_az_framework_1_1_input_device.html#a286c2716dd37ce9a3029e1ac258d4d0e":[1,0,1,108,9],
-"class_az_framework_1_1_input_device.html#a286c2716dd37ce9a3029e1ac258d4d0e":[2,0,1,116,9],
-"class_az_framework_1_1_input_device.html#a34f8012a36ee5c9e736712bad162fe5f":[1,0,1,108,1],
-"class_az_framework_1_1_input_device.html#a34f8012a36ee5c9e736712bad162fe5f":[2,0,1,116,1],
-"class_az_framework_1_1_input_device.html#a45a3441d6e08ad941a2212d3e2a61f9f":[1,0,1,108,8],
-"class_az_framework_1_1_input_device.html#a45a3441d6e08ad941a2212d3e2a61f9f":[2,0,1,116,8],
-"class_az_framework_1_1_input_device.html#a504d767255cfbe1a023cbf420091ec28":[1,0,1,108,6],
 "class_az_framework_1_1_input_device.html#a504d767255cfbe1a023cbf420091ec28":[2,0,1,116,6],
 "class_az_framework_1_1_input_device.html#a5d82dfb50a7a7a770ebe8d2c548b412d":[1,0,1,108,12],
 "class_az_framework_1_1_input_device.html#a5d82dfb50a7a7a770ebe8d2c548b412d":[2,0,1,116,12],
@@ -249,5 +242,12 @@ var NAVTREEINDEX6 =
 "class_az_framework_1_1_input_device_keyboard_windows.html":[1,0,1,116],
 "class_az_framework_1_1_input_device_keyboard_windows.html":[2,0,1,124],
 "class_az_framework_1_1_input_device_keyboard_windows.html#a1dad0c3135736686f596fba3dea172d3":[1,0,1,116,0],
-"class_az_framework_1_1_input_device_keyboard_windows.html#a1dad0c3135736686f596fba3dea172d3":[2,0,1,124,0]
+"class_az_framework_1_1_input_device_keyboard_windows.html#a1dad0c3135736686f596fba3dea172d3":[2,0,1,124,0],
+"class_az_framework_1_1_input_device_keyboard_windows.html#a6021ac3b6e012870584dcca5923d6e7a":[1,0,1,116,1],
+"class_az_framework_1_1_input_device_keyboard_windows.html#a6021ac3b6e012870584dcca5923d6e7a":[2,0,1,124,1],
+"class_az_framework_1_1_input_device_motion.html":[1,0,1,117],
+"class_az_framework_1_1_input_device_motion.html":[2,0,1,125],
+"class_az_framework_1_1_input_device_motion.html#a02797db92ac33def1f363c5d10c1dec2":[1,0,1,117,9],
+"class_az_framework_1_1_input_device_motion.html#a02797db92ac33def1f363c5d10c1dec2":[2,0,1,125,9],
+"class_az_framework_1_1_input_device_motion.html#a105c9b8810c5cfeef807a1149dbd59cc":[1,0,1,117,12]
 };

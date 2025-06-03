@@ -13,7 +13,7 @@ var class_a_z_1_1_shader_builder_1_1_azsl_compiler =
     [ "ParseIaPopulateFunctionData", "class_a_z_1_1_shader_builder_1_1_azsl_compiler.html#af3e0a2c239d048ee7fb8090026f8fc17", null ],
     [ "ParseIaPopulateStructData", "class_a_z_1_1_shader_builder_1_1_azsl_compiler.html#a32e5acb24134b0fff201239fc2c43905", null ],
     [ "ParseOmPopulateStructData", "class_a_z_1_1_shader_builder_1_1_azsl_compiler.html#a9aa9d7056ccdb95cea07f05b2949c55d", null ],
-    [ "ParseOptionsPopulateOptionGroupLayout", "class_a_z_1_1_shader_builder_1_1_azsl_compiler.html#a94e61bbbe36b397412319d445bd29aae", null ],
+    [ "ParseOptionsPopulateOptionGroupLayout", "class_a_z_1_1_shader_builder_1_1_azsl_compiler.html#a6764c329cc354361b93916fc489367ff", null ],
     [ "ParseSrgPopulateRootConstantData", "class_a_z_1_1_shader_builder_1_1_azsl_compiler.html#a2d714c3ff5eeb9d72b1874d6c5bc88fe", null ],
     [ "ParseSrgPopulateSrgData", "class_a_z_1_1_shader_builder_1_1_azsl_compiler.html#a58e92522cbf455aef635b7b147929aad", null ]
 ];

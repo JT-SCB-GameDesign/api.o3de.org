@@ -51,5 +51,6 @@ var NAVTREEINDEX =
 "struct_multiplayer_1_1_session_config.html#aa0c842fb40314ce8a4d6a1eb8400dde9"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';

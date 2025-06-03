@@ -11,5 +11,5 @@ var struct_a_z_1_1_r_p_i_1_1_gpu_pass_profiler_1_1_pass_entry =
     [ "m_path", "struct_a_z_1_1_r_p_i_1_1_gpu_pass_profiler_1_1_pass_entry.html#acbd327538920ae38f71460a34195c0a4", null ],
     [ "m_pipelineStatistics", "struct_a_z_1_1_r_p_i_1_1_gpu_pass_profiler_1_1_pass_entry.html#aea4b686ebfef386d54b61aab659eb57d", null ],
     [ "m_timestampEnabled", "struct_a_z_1_1_r_p_i_1_1_gpu_pass_profiler_1_1_pass_entry.html#a6c972a5bc6107a6fe6ea923b73089df2", null ],
-    [ "PipelineStatisticsAttributeCount", "struct_a_z_1_1_r_p_i_1_1_gpu_pass_profiler_1_1_pass_entry.html#ab0484209e46b0599785ef3faa6673dbb", null ]
+    [ "PipelineStatisticsAttributeCount", "struct_a_z_1_1_r_p_i_1_1_gpu_pass_profiler_1_1_pass_entry.html#ab43d891d219be9a25f521d67e704b40f", null ]
 ];

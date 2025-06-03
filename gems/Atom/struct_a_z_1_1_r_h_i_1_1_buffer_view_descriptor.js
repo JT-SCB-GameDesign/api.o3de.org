@@ -4,6 +4,7 @@ var struct_a_z_1_1_r_h_i_1_1_buffer_view_descriptor =
     [ "CreateRayTracingTLAS", "struct_a_z_1_1_r_h_i_1_1_buffer_view_descriptor.html#a4870e362d730dd83219d0a7aa12297f2", null ],
     [ "CreateStructured", "struct_a_z_1_1_r_h_i_1_1_buffer_view_descriptor.html#ac3899adecbe45b060eded9bd3f289f3f", null ],
     [ "CreateTyped", "struct_a_z_1_1_r_h_i_1_1_buffer_view_descriptor.html#a218367a1b9c0df2fda4278255e9f2e17", null ],
+    [ "OverlapsSubResource", "struct_a_z_1_1_r_h_i_1_1_buffer_view_descriptor.html#a4da21799ee0dc2b70f1db42bff1dbfdd", null ],
     [ "m_elementCount", "struct_a_z_1_1_r_h_i_1_1_buffer_view_descriptor.html#a86dc448483d7ba7484a5a8f3e200e18f", null ],
     [ "m_elementFormat", "struct_a_z_1_1_r_h_i_1_1_buffer_view_descriptor.html#affccfd3b602364dd51b0043b80b13819", null ],
     [ "m_elementOffset", "struct_a_z_1_1_r_h_i_1_1_buffer_view_descriptor.html#a1eb4b22d741ff434cb427c83ca97a589", null ],

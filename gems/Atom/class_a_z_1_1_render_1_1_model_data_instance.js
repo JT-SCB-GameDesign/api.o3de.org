@@ -1,5 +1,5 @@
 var class_a_z_1_1_render_1_1_model_data_instance =
 [
-    [ "PostCullingInstanceData", "struct_a_z_1_1_render_1_1_model_data_instance_1_1_post_culling_instance_data.html", null ],
-    [ "HandleDrawPacketUpdate", "class_a_z_1_1_render_1_1_model_data_instance.html#a36e74f337f967eb2b2daa71b25548acb", null ]
+    [ "ConnectMeshDrawPacketUpdatedHandler", "class_a_z_1_1_render_1_1_model_data_instance.html#a816d909a6eb55d7d12d9724260473656", null ],
+    [ "HandleDrawPacketUpdate", "class_a_z_1_1_render_1_1_model_data_instance.html#aae306aa0a9277530dbad2f0a38d2beeb", null ]
 ];

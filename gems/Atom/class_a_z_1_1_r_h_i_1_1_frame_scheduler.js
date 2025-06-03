@@ -8,11 +8,11 @@ var class_a_z_1_1_r_h_i_1_1_frame_scheduler =
     [ "GetCpuFrameTime", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#ae0c65a01bc8a9552208769bbf20e7460", null ],
     [ "GetMemoryStatistics", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#ac864a879fc97e9e51e4891194c7ff86a", null ],
     [ "GetPhysicalDeviceDescriptor", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#aea4231ca406a990b977e3cc8f48d24ca", null ],
-    [ "GetRootScopeId", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#a9ec8cdddbc2c01bb92759921d88ca44a", null ],
-    [ "GetTransientAttachmentPoolDescriptor", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#afca4091923aedc4d6fd039163f7d4dd5", null ],
-    [ "GetTransientAttachmentStatistics", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#abee27555c24a65d6f10a46a610371d71", null ],
+    [ "GetRootScopeId", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#ab65221d490b455a1f7d39f8e5a0e4f2c", null ],
+    [ "GetTransientAttachmentPoolDescriptor", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#a90cf5615d3c10fd016340d1d02e25c90", null ],
+    [ "GetTransientAttachmentStatistics", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#a3f7cbd1be70b398c12406710d1104fa3", null ],
     [ "ImportScopeProducer", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#ad9f758b6a5920693b1b29cf3f8ddfcb8", null ],
-    [ "Init", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#a02330ecb6b6c491d26243209e9795438", null ],
-    [ "QueueRayTracingShaderTableForBuild", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#ad536262634de3ad354a31f1af74c01c7", null ],
+    [ "Init", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#a08bb7888dadabee3dbc26ea43a75ca7d", null ],
+    [ "QueueRayTracingShaderTableForBuild", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#ac205e4fea14fc86e294073b950366f78", null ],
     [ "Shutdown", "class_a_z_1_1_r_h_i_1_1_frame_scheduler.html#afba4653abcb4bbf2afaffa93bd25e542", null ]
 ];

@@ -1,5 +1,6 @@
 var struct_a_z_1_1_r_p_i_1_1_pass_attachment_binding =
 [
+    [ "Clear", "struct_a_z_1_1_r_p_i_1_1_pass_attachment_binding.html#a904f0de1e27bc0a8a7d1ec57c6a386bd", null ],
     [ "GetAttachmentAccess", "struct_a_z_1_1_r_p_i_1_1_pass_attachment_binding.html#ad5f767b2d453dabaac0fbe64f9cd9bd8", null ],
     [ "SetAttachment", "struct_a_z_1_1_r_p_i_1_1_pass_attachment_binding.html#ae96fa644b374f71ebd384cef8938aada", null ],
     [ "SetOriginalAttachment", "struct_a_z_1_1_r_p_i_1_1_pass_attachment_binding.html#a9b5ff20f337e7c6539001222dd3215cf", null ],
@@ -9,6 +10,7 @@ var struct_a_z_1_1_r_p_i_1_1_pass_attachment_binding =
     [ "m_connectedBinding", "struct_a_z_1_1_r_p_i_1_1_pass_attachment_binding.html#a49d41bc8a35d781937b7b5e4641b5ab1", null ],
     [ "m_fallbackBinding", "struct_a_z_1_1_r_p_i_1_1_pass_attachment_binding.html#aafd88b7c85fe2246d491366fde064a47", null ],
     [ "m_name", "struct_a_z_1_1_r_p_i_1_1_pass_attachment_binding.html#a7693e95c2395fee0ac03f426da212f80", null ],
+    [ "m_scopeAttachmentStage", "struct_a_z_1_1_r_p_i_1_1_pass_attachment_binding.html#a5bb0389719a298793804983118b2eee0", null ],
     [ "m_scopeAttachmentUsage", "struct_a_z_1_1_r_p_i_1_1_pass_attachment_binding.html#a5773a412e983d4e579e9472b8dc4fe7d", null ],
     [ "m_shaderImageDimensionsNameIndex", "struct_a_z_1_1_r_p_i_1_1_pass_attachment_binding.html#a9fb9fb8a91cc534633f87c8c47a34b01", null ],
     [ "m_shaderInputIndex", "struct_a_z_1_1_r_p_i_1_1_pass_attachment_binding.html#a01981153e356ac24724cdee5d61a348e", null ],

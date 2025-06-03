@@ -1,12 +1,5 @@
 var NAVTREEINDEX9 =
 {
-"class_az_framework_1_1_input_system_cursor_requests.html#a6eac938725cb7d0659a94a6128ad3a41":[1,0,1,133,3],
-"class_az_framework_1_1_input_system_cursor_requests.html#a6eac938725cb7d0659a94a6128ad3a41":[2,0,1,141,3],
-"class_az_framework_1_1_input_system_cursor_requests.html#a9d63dc20f5b24cc5eaa84e1b377baf40":[1,0,1,133,2],
-"class_az_framework_1_1_input_system_cursor_requests.html#a9d63dc20f5b24cc5eaa84e1b377baf40":[2,0,1,141,2],
-"class_az_framework_1_1_input_system_cursor_requests.html#aa9d6d4dab82e05865ea37a206cfb7cdc":[1,0,1,133,0],
-"class_az_framework_1_1_input_system_cursor_requests.html#aa9d6d4dab82e05865ea37a206cfb7cdc":[2,0,1,141,0],
-"class_az_framework_1_1_input_system_cursor_requests.html#ab1bf71cdc85ca95e40a2e93d6103d147":[1,0,1,133,5],
 "class_az_framework_1_1_input_system_cursor_requests.html#ab1bf71cdc85ca95e40a2e93d6103d147":[2,0,1,141,5],
 "class_az_framework_1_1_input_system_notifications.html":[1,0,1,134],
 "class_az_framework_1_1_input_system_notifications.html":[2,0,1,142],
@@ -249,5 +242,12 @@ var NAVTREEINDEX9 =
 "class_az_framework_1_1_octree_system_component.html#abe2bb1016577f5a0438157ff63d725cb":[1,0,1,175,0],
 "class_az_framework_1_1_octree_system_component.html#abe2bb1016577f5a0438157ff63d725cb":[2,0,1,183,0],
 "class_az_framework_1_1_octree_system_component.html#adaef1020244c587bb8c48cea1cf62ca8":[1,0,1,175,1],
-"class_az_framework_1_1_octree_system_component.html#adaef1020244c587bb8c48cea1cf62ca8":[2,0,1,183,1]
+"class_az_framework_1_1_octree_system_component.html#adaef1020244c587bb8c48cea1cf62ca8":[2,0,1,183,1],
+"class_az_framework_1_1_orbit_camera_input.html":[1,0,1,176],
+"class_az_framework_1_1_orbit_camera_input.html":[2,0,1,184],
+"class_az_framework_1_1_orbit_camera_input.html#a117bda9679338948b80ce0cbe615108a":[1,0,1,176,4],
+"class_az_framework_1_1_orbit_camera_input.html#a117bda9679338948b80ce0cbe615108a":[2,0,1,184,4],
+"class_az_framework_1_1_orbit_camera_input.html#a2a1a735862a0be87cebaef87ff215e02":[1,0,1,176,3],
+"class_az_framework_1_1_orbit_camera_input.html#a2a1a735862a0be87cebaef87ff215e02":[2,0,1,184,3],
+"class_az_framework_1_1_orbit_camera_input.html#a9d4a2f5ad29bc49ecbd5f3c358c1154d":[1,0,1,176,1]
 };

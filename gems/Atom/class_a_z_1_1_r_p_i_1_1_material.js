@@ -19,5 +19,5 @@ var class_a_z_1_1_r_p_i_1_1_material =
     [ "SetPropertyValue", "class_a_z_1_1_r_p_i_1_1_material.html#a94e3ae3db13547ade75a247229d8699b", null ],
     [ "SetPsoHandlingOverride", "class_a_z_1_1_r_p_i_1_1_material.html#ae3365d632b4184a97ecd3b82f0bb62d6", null ],
     [ "SetSystemShaderOption", "class_a_z_1_1_r_p_i_1_1_material.html#a77aefa075ef952da33950ce5f11ac899", null ],
-    [ "DEFAULT_CHANGE_ID", "class_a_z_1_1_r_p_i_1_1_material.html#a5b95509aec756bc056b514e851c875e8", null ]
+    [ "DEFAULT_CHANGE_ID", "class_a_z_1_1_r_p_i_1_1_material.html#a7a7c06425270ed30d5eb7c14897fdef4", null ]
 ];

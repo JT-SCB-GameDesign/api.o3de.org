@@ -1,0 +1,5 @@
+var struct_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1variant_3_01_types_8_8_8_01_4_01_4 =
+[
+    [ "GenericClassVariant", "class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1variant_3_01_types_8_8_8_01_4_01_4_1_1_generic_class_variant.html", "class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1variant_3_01_types_8_8_8_01_4_01_4_1_1_generic_class_variant" ],
+    [ "VariantDataConverter", "class_a_z_1_1_serialize_generic_type_info_3_01_a_z_std_1_1variant_3_01_types_8_8_8_01_4_01_4_1_1_variant_data_converter.html", null ]
+];

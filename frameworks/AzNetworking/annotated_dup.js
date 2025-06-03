@@ -2,8 +2,7 @@ var annotated_dup =
 [
     [ "AbstractValue", null, [
       [ "BaseValue", "class_abstract_value_1_1_base_value.html", null ],
-      [ "ValueT", "class_abstract_value_1_1_value_t.html", null ],
-      [ "ValueT< char * >", "class_abstract_value_1_1_value_t_3_01char_01_5_01_4.html", null ]
+      [ "ValueT", "class_abstract_value_1_1_value_t.html", null ]
     ] ],
     [ "AzNetworking", null, [
       [ "AzContainerHelper", "struct_az_networking_1_1_az_container_helper.html", "struct_az_networking_1_1_az_container_helper" ],

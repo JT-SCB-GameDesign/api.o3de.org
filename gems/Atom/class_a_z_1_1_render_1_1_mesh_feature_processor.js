@@ -2,7 +2,9 @@ var class_a_z_1_1_render_1_1_mesh_feature_processor =
 [
     [ "AcquireMesh", "class_a_z_1_1_render_1_1_mesh_feature_processor.html#a66ce141732e63e5ffcc0a7d70020eaac", null ],
     [ "Activate", "class_a_z_1_1_render_1_1_mesh_feature_processor.html#a1090c007c3ca665246030dc92e6e9d6e", null ],
+    [ "BuildDispatchDrawItemList", "class_a_z_1_1_render_1_1_mesh_feature_processor.html#a5a46f38afc6b17383ef78a00b7501c3b", null ],
     [ "CloneMesh", "class_a_z_1_1_render_1_1_mesh_feature_processor.html#a45b2485bc473d584d33d0d8dba000df4", null ],
+    [ "CreateStreamBufferViewsBuilder", "class_a_z_1_1_render_1_1_mesh_feature_processor.html#a3a867ff150ec09c3665769e2c051d174", null ],
     [ "Deactivate", "class_a_z_1_1_render_1_1_mesh_feature_processor.html#ab823aa25800f903992e7c633c3654508", null ],
     [ "GetCustomMaterials", "class_a_z_1_1_render_1_1_mesh_feature_processor.html#a33c40768fb0d7668fe9aa517513dfda3", null ],
     [ "GetDrawPackets", "class_a_z_1_1_render_1_1_mesh_feature_processor.html#ac5e4ca07de78535299e913676021da2f", null ],

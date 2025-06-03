@@ -7,6 +7,7 @@ var struct_a_z_1_1_r_h_i_1_1_image_view_descriptor =
     [ "CreateCubemap", "struct_a_z_1_1_r_h_i_1_1_image_view_descriptor.html#a54908c24be5277cb43490f16991db358", null ],
     [ "CreateCubemap", "struct_a_z_1_1_r_h_i_1_1_image_view_descriptor.html#ad39a4ec70545ae330554022a3361c13b", null ],
     [ "CreateCubemapFace", "struct_a_z_1_1_r_h_i_1_1_image_view_descriptor.html#ae8ce536ba48552bdb87becea354e9a44", null ],
+    [ "OverlapsSubResource", "struct_a_z_1_1_r_h_i_1_1_image_view_descriptor.html#a3f5bbc87b46ab8408f2045fa973fe06b", null ],
     [ "m_arraySliceMax", "struct_a_z_1_1_r_h_i_1_1_image_view_descriptor.html#ac03aafeb7b1d5bb0a97b92a6d9489a07", null ],
     [ "m_arraySliceMin", "struct_a_z_1_1_r_h_i_1_1_image_view_descriptor.html#a0169db532fe2443bdefca7ddf28a03ef", null ],
     [ "m_aspectFlags", "struct_a_z_1_1_r_h_i_1_1_image_view_descriptor.html#a503748d846e7c79785cd1d8af9a178b6", null ],

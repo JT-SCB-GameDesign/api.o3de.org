@@ -166,6 +166,18 @@ var hierarchy =
       [ "AZ::DocumentPropertyEditor::LabeledRowDPEExpanderSettings", "class_a_z_1_1_document_property_editor_1_1_labeled_row_d_p_e_expander_settings.html", null ]
     ] ],
     [ "AZ::DocumentPropertyEditor::NodeDefinition", "struct_a_z_1_1_document_property_editor_1_1_node_definition.html", [
+      [ "AZ::DocumentPropertyEditor::Nodes::NumericEditor< int64_t >", "struct_a_z_1_1_document_property_editor_1_1_nodes_1_1_numeric_editor.html", [
+        [ "AZ::DocumentPropertyEditor::Nodes::Slider< int64_t >", "struct_a_z_1_1_document_property_editor_1_1_nodes_1_1_slider.html", null ],
+        [ "AZ::DocumentPropertyEditor::Nodes::SpinBox< int64_t >", "struct_a_z_1_1_document_property_editor_1_1_nodes_1_1_spin_box.html", null ]
+      ] ],
+      [ "AZ::DocumentPropertyEditor::Nodes::NumericEditor< uint64_t >", "struct_a_z_1_1_document_property_editor_1_1_nodes_1_1_numeric_editor.html", [
+        [ "AZ::DocumentPropertyEditor::Nodes::Slider< uint64_t >", "struct_a_z_1_1_document_property_editor_1_1_nodes_1_1_slider.html", null ],
+        [ "AZ::DocumentPropertyEditor::Nodes::SpinBox< uint64_t >", "struct_a_z_1_1_document_property_editor_1_1_nodes_1_1_spin_box.html", null ]
+      ] ],
+      [ "AZ::DocumentPropertyEditor::Nodes::NumericEditor< double >", "struct_a_z_1_1_document_property_editor_1_1_nodes_1_1_numeric_editor.html", [
+        [ "AZ::DocumentPropertyEditor::Nodes::Slider< double >", "struct_a_z_1_1_document_property_editor_1_1_nodes_1_1_slider.html", null ],
+        [ "AZ::DocumentPropertyEditor::Nodes::SpinBox< double >", "struct_a_z_1_1_document_property_editor_1_1_nodes_1_1_spin_box.html", null ]
+      ] ],
       [ "AZ::DocumentPropertyEditor::Nodes::NumericEditor< Dom::Value >", "struct_a_z_1_1_document_property_editor_1_1_nodes_1_1_numeric_editor.html", [
         [ "AZ::DocumentPropertyEditor::Nodes::Slider< T >", "struct_a_z_1_1_document_property_editor_1_1_nodes_1_1_slider.html", null ],
         [ "AZ::DocumentPropertyEditor::Nodes::SpinBox< T >", "struct_a_z_1_1_document_property_editor_1_1_nodes_1_1_spin_box.html", null ]
@@ -730,6 +742,7 @@ var hierarchy =
     [ "AzFramework::SearchRuleDefinition", "class_az_framework_1_1_search_rule_definition.html", null ],
     [ "AzFramework::SeedInfo", "struct_az_framework_1_1_seed_info.html", null ],
     [ "AzFramework::SimpleAssetReferenceBase", "class_az_framework_1_1_simple_asset_reference_base.html", [
+      [ "AzFramework::SimpleAssetReference< T >", "class_az_framework_1_1_simple_asset_reference.html", null ],
       [ "AzFramework::SimpleAssetReference< AssetType >", "class_az_framework_1_1_simple_asset_reference.html", null ]
     ] ],
     [ "AzFramework::SliceInstantiationTicket", "class_az_framework_1_1_slice_instantiation_ticket.html", null ],

@@ -1,6 +1,6 @@
 var class_a_z_1_1_d_x12_1_1_system_component =
 [
-    [ "CreateBuffer", "class_a_z_1_1_d_x12_1_1_system_component.html#ad91527c7c1567ab28aba17dd6c7c8664", null ],
+    [ "CreateBuffer", "class_a_z_1_1_d_x12_1_1_system_component.html#a65c3567c3dbdfbe7b5d84904e59f432a", null ],
     [ "EnumeratePhysicalDevices", "class_a_z_1_1_d_x12_1_1_system_component.html#a1d2701202a58b76c9358de186c8da3a3", null ],
     [ "GetAPIUniqueIndex", "class_a_z_1_1_d_x12_1_1_system_component.html#a81b01819cd31b3f483aa5d762511a784", null ],
     [ "GetDefaultPriority", "class_a_z_1_1_d_x12_1_1_system_component.html#a4700e077aa15452a0575e7b0b931955e", null ],

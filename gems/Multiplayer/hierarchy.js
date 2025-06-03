@@ -127,6 +127,8 @@ var hierarchy =
       [ "Multiplayer::MultiplayerSystemComponent", "class_multiplayer_1_1_multiplayer_system_component.html", null ]
     ] ],
     [ "Multiplayer::IMultiplayerAuditingDatum", "class_multiplayer_1_1_i_multiplayer_auditing_datum.html", [
+      [ "Multiplayer::MultiplayerAuditingDatum< AZStd::string >", "class_multiplayer_1_1_multiplayer_auditing_datum_3_01_a_z_std_1_1string_01_4.html", null ],
+      [ "Multiplayer::MultiplayerAuditingDatum< bool >", "class_multiplayer_1_1_multiplayer_auditing_datum_3_01bool_01_4.html", null ],
       [ "Multiplayer::MultiplayerAuditingDatum< T >", "class_multiplayer_1_1_multiplayer_auditing_datum.html", null ],
       [ "Multiplayer::MultiplayerAuditingDatum< AZStd::string >", "class_multiplayer_1_1_multiplayer_auditing_datum_3_01_a_z_std_1_1string_01_4.html", null ],
       [ "Multiplayer::MultiplayerAuditingDatum< bool >", "class_multiplayer_1_1_multiplayer_auditing_datum_3_01bool_01_4.html", null ]
@@ -203,8 +205,6 @@ var hierarchy =
     [ "Multiplayer::ReplicationRecordStats", "struct_multiplayer_1_1_replication_record_stats.html", null ],
     [ "Multiplayer::RewindableFixedVector< TYPE, SIZE >", "class_multiplayer_1_1_rewindable_fixed_vector.html", null ],
     [ "Multiplayer::RewindableObject< BASE_TYPE, REWIND_SIZE >", "class_multiplayer_1_1_rewindable_object.html", null ],
-    [ "Multiplayer::RewindableObject< AZ::Transform, Multiplayer::RewindHistorySize >", "class_multiplayer_1_1_rewindable_object.html", null ],
-    [ "Multiplayer::RewindableObject< uint32_t, Multiplayer::RewindHistorySize >", "class_multiplayer_1_1_rewindable_object.html", null ],
     [ "Multiplayer::ScopedAlterTime", "class_multiplayer_1_1_scoped_alter_time.html", null ],
     [ "Multiplayer::SearchSessionsRequest", "struct_multiplayer_1_1_search_sessions_request.html", null ],
     [ "Multiplayer::SearchSessionsResponse", "struct_multiplayer_1_1_search_sessions_response.html", null ],

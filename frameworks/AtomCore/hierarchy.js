@@ -15,6 +15,10 @@ var hierarchy =
       [ "AZStd::fixed_vector_set< Key, Capacity, Compare >", "class_a_z_std_1_1fixed__vector__set.html", null ],
       [ "AZStd::vector_set< Key, Compare, Allocator >", "class_a_z_std_1_1vector__set.html", null ]
     ] ],
-    [ "AZStd::vector_set_base< Key, AZStd::less< Key >, AZStd::fixed_vector< Key, Capacity > >", "class_a_z_std_1_1vector__set__base.html", null ],
-    [ "AZStd::vector_set_base< Key, AZStd::less< Key >, AZStd::vector< Key, AZStd::allocator > >", "class_a_z_std_1_1vector__set__base.html", null ]
+    [ "AZStd::vector_set_base< Key, Compare, AZStd::fixed_vector< Key, Capacity > >", "class_a_z_std_1_1vector__set__base.html", [
+      [ "AZStd::fixed_vector_set< Key, Capacity, Compare >", "class_a_z_std_1_1fixed__vector__set.html", null ]
+    ] ],
+    [ "AZStd::vector_set_base< Key, Compare, AZStd::vector< Key, Allocator > >", "class_a_z_std_1_1vector__set__base.html", [
+      [ "AZStd::vector_set< Key, Compare, Allocator >", "class_a_z_std_1_1vector__set.html", null ]
+    ] ]
 ];

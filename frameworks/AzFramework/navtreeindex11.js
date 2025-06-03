@@ -1,12 +1,5 @@
 var NAVTREEINDEX11 =
 {
-"class_az_framework_1_1_root_spawnable_definition.html#af3817351a0359f03757be28ba75932eb":[2,0,1,213,2],
-"class_az_framework_1_1_root_spawnable_definition.html#afedadeb836969996a51340d2f09e7d00":[1,0,1,205,1],
-"class_az_framework_1_1_root_spawnable_definition.html#afedadeb836969996a51340d2f09e7d00":[2,0,1,213,1],
-"class_az_framework_1_1_root_spawnable_notifications.html":[1,0,1,206],
-"class_az_framework_1_1_root_spawnable_notifications.html":[2,0,1,214],
-"class_az_framework_1_1_root_spawnable_notifications.html#a67028b9950eb7d7f5fc05ed1b13fb33d":[1,0,1,206,2],
-"class_az_framework_1_1_root_spawnable_notifications.html#a67028b9950eb7d7f5fc05ed1b13fb33d":[2,0,1,214,2],
 "class_az_framework_1_1_root_spawnable_notifications.html#aa661942a33148c7eeb1ceed1927a12b9":[1,0,1,206,1],
 "class_az_framework_1_1_root_spawnable_notifications.html#aa661942a33148c7eeb1ceed1927a12b9":[2,0,1,214,1],
 "class_az_framework_1_1_root_spawnable_notifications.html#af19874e167596ee678a8a51636c8eb68":[1,0,1,206,0],
@@ -70,6 +63,7 @@ var NAVTREEINDEX11 =
 "class_az_framework_1_1_script_debug_set_value_result.html":[1,0,1,230],
 "class_az_framework_1_1_script_debug_set_value_result.html":[2,0,1,238],
 "class_az_framework_1_1_scripts_1_1_spawnable_script_asset_ref.html":[2,0,1,6,0],
+"class_az_framework_1_1_scripts_1_1_spawnable_script_asset_ref.html#a77f478154b88775516c5b2bfedc3cc6d":[2,0,1,6,0,0],
 "class_az_framework_1_1_scripts_1_1_spawnable_script_mediator.html":[2,0,1,6,1],
 "class_az_framework_1_1_scripts_1_1_spawnable_script_mediator.html#a21393db4fbe04d8d7e0909c351a1cbb5":[2,0,1,6,1,5],
 "class_az_framework_1_1_scripts_1_1_spawnable_script_mediator.html#a2f46b423144e538c56a66e097a133f9a":[2,0,1,6,1,4],
@@ -198,8 +192,6 @@ var NAVTREEINDEX11 =
 "class_az_framework_1_1_slice_instantiation_ticket.html#aaebd85436c3433771c6e2d1eb81d35f7":[2,0,1,258,3],
 "class_az_framework_1_1_socket_connection.html":[1,0,1,251],
 "class_az_framework_1_1_socket_connection.html":[2,0,1,259],
-"class_az_framework_1_1_socket_connection.html#a018fb44b5c71abc53d9684b661f0a785":[1,0,1,251,0],
-"class_az_framework_1_1_socket_connection.html#a018fb44b5c71abc53d9684b661f0a785":[2,0,1,259,0],
 "class_az_framework_1_1_socket_connection.html#a01febf10d6451376fc58b7107eebb21b":[1,0,1,251,7],
 "class_az_framework_1_1_socket_connection.html#a01febf10d6451376fc58b7107eebb21b":[2,0,1,259,7],
 "class_az_framework_1_1_socket_connection.html#a03b4dccf3d883a1ded171dfe0eb620f3":[1,0,1,251,10],
@@ -208,6 +200,8 @@ var NAVTREEINDEX11 =
 "class_az_framework_1_1_socket_connection.html#a0d64c587a8cab63750b7b949df9508e7":[2,0,1,259,12],
 "class_az_framework_1_1_socket_connection.html#a16bdb75ee00154584b3e9294d9d52c73":[1,0,1,251,9],
 "class_az_framework_1_1_socket_connection.html#a16bdb75ee00154584b3e9294d9d52c73":[2,0,1,259,9],
+"class_az_framework_1_1_socket_connection.html#a4c5138cabb52d70d734ab002ae7d8bb6":[1,0,1,251,0],
+"class_az_framework_1_1_socket_connection.html#a4c5138cabb52d70d734ab002ae7d8bb6":[2,0,1,259,0],
 "class_az_framework_1_1_socket_connection.html#a717e8ec57b1b0136c159607c0c902329":[1,0,1,251,2],
 "class_az_framework_1_1_socket_connection.html#a717e8ec57b1b0136c159607c0c902329":[2,0,1,259,2],
 "class_az_framework_1_1_socket_connection.html#a7d2e464b27def77f454261a32719d848":[1,0,1,251,3],
@@ -249,5 +243,11 @@ var NAVTREEINDEX11 =
 "class_az_framework_1_1_spawnable_asset_events.html#aa03e5b2cb9a85ebc08244b5a6946bab0":[1,0,1,253,0],
 "class_az_framework_1_1_spawnable_asset_events.html#aa03e5b2cb9a85ebc08244b5a6946bab0":[2,0,1,261,0],
 "class_az_framework_1_1_spawnable_asset_handler.html":[1,0,1,254],
-"class_az_framework_1_1_spawnable_asset_handler.html":[2,0,1,262]
+"class_az_framework_1_1_spawnable_asset_handler.html":[2,0,1,262],
+"class_az_framework_1_1_spawnable_const_entity_container_view.html":[1,0,1,255],
+"class_az_framework_1_1_spawnable_const_entity_container_view.html":[2,0,1,263],
+"class_az_framework_1_1_spawnable_const_index_entity_container_view.html":[1,0,1,256],
+"class_az_framework_1_1_spawnable_const_index_entity_container_view.html":[2,0,1,264],
+"class_az_framework_1_1_spawnable_entities_container.html":[1,0,1,257],
+"class_az_framework_1_1_spawnable_entities_container.html":[2,0,1,265]
 };

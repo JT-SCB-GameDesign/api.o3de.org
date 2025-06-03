@@ -4,6 +4,8 @@ var class_a_z_1_1_render_1_1_point_light_feature_processor =
     [ "Activate", "class_a_z_1_1_render_1_1_point_light_feature_processor.html#ad7fd86ee5743c373f8d4804e5399aa9f", null ],
     [ "CloneLight", "class_a_z_1_1_render_1_1_point_light_feature_processor.html#aed1de132c1d473ddedd4738b0c348e0e", null ],
     [ "Deactivate", "class_a_z_1_1_render_1_1_point_light_feature_processor.html#a6a94d2353ed8fb5c5f857bf5c219cd96", null ],
+    [ "GetLightBuffer", "class_a_z_1_1_render_1_1_point_light_feature_processor.html#a5c5e17094492a44185641e86ba86f6f1", null ],
+    [ "GetLightCount", "class_a_z_1_1_render_1_1_point_light_feature_processor.html#addbe3a00d621a831f1d8ebae839d709a", null ],
     [ "ReleaseLight", "class_a_z_1_1_render_1_1_point_light_feature_processor.html#afe01ed52ca397e2db2714b0d79d6f668", null ],
     [ "Render", "class_a_z_1_1_render_1_1_point_light_feature_processor.html#ac98fab5b6da312fa2575aeafbeece8e1", null ],
     [ "SetAffectsGI", "class_a_z_1_1_render_1_1_point_light_feature_processor.html#a669ad4856c3ecda6e5d955ec7f73e7a2", null ],

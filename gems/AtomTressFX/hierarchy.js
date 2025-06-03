@@ -60,10 +60,6 @@ var hierarchy =
     [ "AZ::Render::Hair::DynamicHairData", "class_a_z_1_1_render_1_1_hair_1_1_dynamic_hair_data.html", null ],
     [ "AZ::Render::Hair::HairGlobalSettings", "struct_a_z_1_1_render_1_1_hair_1_1_hair_global_settings.html", null ],
     [ "AZ::Render::Hair::HairUniformBuffer< TYPE >", "class_a_z_1_1_render_1_1_hair_1_1_hair_uniform_buffer.html", null ],
-    [ "AZ::Render::Hair::HairUniformBuffer< AMD::TressFXRenderParams >", "class_a_z_1_1_render_1_1_hair_1_1_hair_uniform_buffer.html", null ],
-    [ "AZ::Render::Hair::HairUniformBuffer< AMD::TressFXShadeParams >", "class_a_z_1_1_render_1_1_hair_1_1_hair_uniform_buffer.html", null ],
-    [ "AZ::Render::Hair::HairUniformBuffer< AMD::TressFXSimulationParams >", "class_a_z_1_1_render_1_1_hair_1_1_hair_uniform_buffer.html", null ],
-    [ "AZ::Render::Hair::HairUniformBuffer< AMD::TressFXStrandParams >", "class_a_z_1_1_render_1_1_hair_1_1_hair_uniform_buffer.html", null ],
     [ "AZ::Render::Hair::TressFXStrandLevelData", "struct_a_z_1_1_render_1_1_hair_1_1_tress_f_x_strand_level_data.html", null ],
     [ "AZ::Render::Hair::UtilityClass", "class_a_z_1_1_render_1_1_hair_1_1_utility_class.html", null ],
     [ "AZ::Render::HairSharedBufferInterface", "class_a_z_1_1_render_1_1_hair_shared_buffer_interface.html", [

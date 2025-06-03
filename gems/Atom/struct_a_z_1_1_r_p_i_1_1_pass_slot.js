@@ -6,6 +6,7 @@ var struct_a_z_1_1_r_p_i_1_1_pass_slot =
     [ "m_imageViewDesc", "struct_a_z_1_1_r_p_i_1_1_pass_slot.html#ae17a0705d8ef20f7d8a082f194291c1a", null ],
     [ "m_loadStoreAction", "struct_a_z_1_1_r_p_i_1_1_pass_slot.html#a03ded9ea5761a109b8046f55a98ca1ab", null ],
     [ "m_name", "struct_a_z_1_1_r_p_i_1_1_pass_slot.html#acd1e092e7270a000b35372b033ef5eff", null ],
+    [ "m_scopeAttachmentStage", "struct_a_z_1_1_r_p_i_1_1_pass_slot.html#a7220387b93c6a7f1df7a1f96caafe87d", null ],
     [ "m_scopeAttachmentUsage", "struct_a_z_1_1_r_p_i_1_1_pass_slot.html#a2cd81dbe62842e9001a4c9f91ca56e85", null ],
     [ "m_shaderImageDimensionsName", "struct_a_z_1_1_r_p_i_1_1_pass_slot.html#ae4aeed80d5a7e1c2adda385a1ddca2cb", null ],
     [ "m_shaderInputArrayIndex", "struct_a_z_1_1_r_p_i_1_1_pass_slot.html#a2fb325c6447224b9e5e4b1881d2b802d", null ],

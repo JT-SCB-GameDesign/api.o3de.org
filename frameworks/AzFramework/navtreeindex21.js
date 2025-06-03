@@ -1,7 +1,5 @@
 var NAVTREEINDEX21 =
 {
-"struct_az_framework_1_1_input_state.html":[2,0,1,138],
-"struct_az_framework_1_1_input_text_entry_requests_1_1_virtual_keyboard_options.html":[1,0,1,136,0],
 "struct_az_framework_1_1_input_text_entry_requests_1_1_virtual_keyboard_options.html":[2,0,1,144,0],
 "struct_az_framework_1_1_input_text_entry_requests_1_1_virtual_keyboard_options.html#a24a81fc69d1c12100b681aa815701725":[1,0,1,136,0,1],
 "struct_az_framework_1_1_input_text_entry_requests_1_1_virtual_keyboard_options.html#a24a81fc69d1c12100b681aa815701725":[2,0,1,144,0,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX21 =
 "struct_az_framework_1_1_text_draw_parameters.html#afd6dacf14d13dfb6693deaa6b6a8dd9e":[1,0,1,275,8],
 "struct_az_framework_1_1_text_draw_parameters.html#afd6dacf14d13dfb6693deaa6b6a8dd9e":[2,0,1,283,8],
 "struct_az_framework_1_1_text_draw_parameters.html#afe02a01ef2aaf2113647447037db4730":[1,0,1,275,9],
-"struct_az_framework_1_1_text_draw_parameters.html#afe02a01ef2aaf2113647447037db4730":[2,0,1,283,9]
+"struct_az_framework_1_1_text_draw_parameters.html#afe02a01ef2aaf2113647447037db4730":[2,0,1,283,9],
+"struct_az_framework_1_1_translate_camera_input_channel_ids.html":[1,0,1,278],
+"struct_az_framework_1_1_translate_camera_input_channel_ids.html":[2,0,1,286]
 };

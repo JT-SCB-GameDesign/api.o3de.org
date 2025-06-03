@@ -1,7 +1,5 @@
 var NAVTREEINDEX19 =
 {
-"struct_az_framework_1_1_input_channel_1_1_snapshot.html#aadf1c323a288939eaa2850c39f2f28fb":[2,0,1,92,2,0],
-"struct_az_framework_1_1_input_channel_1_1_snapshot.html#aae306159c188f97c11d3a94ae1221e49":[1,0,1,84,2,6],
 "struct_az_framework_1_1_input_channel_1_1_snapshot.html#aae306159c188f97c11d3a94ae1221e49":[2,0,1,92,2,6],
 "struct_az_framework_1_1_input_channel_1_1_snapshot.html#ac3b6f40a28d8abfd1c727a98c29c9140":[1,0,1,84,2,1],
 "struct_az_framework_1_1_input_channel_1_1_snapshot.html#ac3b6f40a28d8abfd1c727a98c29c9140":[2,0,1,92,2,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX19 =
 "struct_az_framework_1_1_input_device_keyboard_1_1_key.html#a70baa897d0a3845f536ca9197b42d761":[2,0,1,123,2,35],
 "struct_az_framework_1_1_input_device_keyboard_1_1_key.html#a73d432d5719968076bffcc005784bbbb":[1,0,1,115,2,31],
 "struct_az_framework_1_1_input_device_keyboard_1_1_key.html#a73d432d5719968076bffcc005784bbbb":[2,0,1,123,2,31],
-"struct_az_framework_1_1_input_device_keyboard_1_1_key.html#a74375dfefafa295965dbf3a8351b5e72":[1,0,1,115,2,81]
+"struct_az_framework_1_1_input_device_keyboard_1_1_key.html#a74375dfefafa295965dbf3a8351b5e72":[1,0,1,115,2,81],
+"struct_az_framework_1_1_input_device_keyboard_1_1_key.html#a74375dfefafa295965dbf3a8351b5e72":[2,0,1,123,2,81],
+"struct_az_framework_1_1_input_device_keyboard_1_1_key.html#a76e59ccfee3974861f2b565ada58d7b9":[1,0,1,115,2,15]
 };

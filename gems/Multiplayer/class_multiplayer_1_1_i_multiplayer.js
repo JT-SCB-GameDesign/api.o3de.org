@@ -14,7 +14,7 @@ var class_multiplayer_1_1_i_multiplayer =
     [ "AddSessionShutdownHandler", "class_multiplayer_1_1_i_multiplayer.html#a58cec4e0bc53a20dacc05df0ebf8fb73", null ],
     [ "AddVersionMismatchHandler", "class_multiplayer_1_1_i_multiplayer.html#ac3fc505e342cbb7133307bbd3ff9cb2b", null ],
     [ "CompleteClientMigration", "class_multiplayer_1_1_i_multiplayer.html#a87028dc8b5cc3d800029d1abf4df4754", null ],
-    [ "Connect", "class_multiplayer_1_1_i_multiplayer.html#a87c583f35745142b52ee9299d49c6823", null ],
+    [ "Connect", "class_multiplayer_1_1_i_multiplayer.html#a49293cf5210dd61052770cb4f7e3750c", null ],
     [ "GetAgentType", "class_multiplayer_1_1_i_multiplayer.html#a13c2a4b335fb923e5930aea09a35c422", null ],
     [ "GetCurrentBlendFactor", "class_multiplayer_1_1_i_multiplayer.html#a6fcdc298e5de47ff9ff5eeeeef92b4f7", null ],
     [ "GetCurrentHostTimeMs", "class_multiplayer_1_1_i_multiplayer.html#a220460c811310f8bd548d021e43f26f2", null ],

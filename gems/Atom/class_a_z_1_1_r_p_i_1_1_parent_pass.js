@@ -1,7 +1,10 @@
 var class_a_z_1_1_r_p_i_1_1_parent_pass =
 [
     [ "AddChild", "class_a_z_1_1_r_p_i_1_1_parent_pass.html#a943ac72e8d47302b2e44249b68deaa02", null ],
+    [ "CanBecomeSubpass", "class_a_z_1_1_r_p_i_1_1_parent_pass.html#ad144cfbc90fb27dea0813647cc82649e", null ],
+    [ "ClearMergeAsSubpassesFlag", "class_a_z_1_1_r_p_i_1_1_parent_pass.html#a7655bade227d8f35b268e42c98360530", null ],
     [ "Create", "class_a_z_1_1_r_p_i_1_1_parent_pass.html#a7f3327adf0f51101930e1d7340c8296d", null ],
+    [ "CreateRenderAttachmentConfigurationForSubpasses", "class_a_z_1_1_r_p_i_1_1_parent_pass.html#a4ad47517e1619f0c8a2797814b56c956", null ],
     [ "DebugPrint", "class_a_z_1_1_r_p_i_1_1_parent_pass.html#a1a704ed3d2d98cfa62025b01beab8a96", null ],
     [ "FindChildPass", "class_a_z_1_1_r_p_i_1_1_parent_pass.html#ac9e68aec68547efaaf81f0ff6241b698", null ],
     [ "FindChildPassIndex", "class_a_z_1_1_r_p_i_1_1_parent_pass.html#a428ec0bd3839f422bfb5d447cfe95b83", null ],

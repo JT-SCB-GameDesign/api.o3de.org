@@ -3,6 +3,8 @@ var class_a_z_1_1_render_1_1_disk_light_feature_processor_interface =
     [ "AcquireLight", "class_a_z_1_1_render_1_1_disk_light_feature_processor_interface.html#a7074b8359cda6b17dde422fce65d013e", null ],
     [ "CloneLight", "class_a_z_1_1_render_1_1_disk_light_feature_processor_interface.html#a927ae44affa0278a48b1a6b1d19ed616", null ],
     [ "GetDiskData", "class_a_z_1_1_render_1_1_disk_light_feature_processor_interface.html#a776d0f296bdf5cde103939b106c24f6f", null ],
+    [ "GetLightBuffer", "class_a_z_1_1_render_1_1_disk_light_feature_processor_interface.html#ac2a056938532fc6d19445f79c44b4f66", null ],
+    [ "GetLightCount", "class_a_z_1_1_render_1_1_disk_light_feature_processor_interface.html#a811629b9f76917ab00921cb064221ded", null ],
     [ "ReleaseLight", "class_a_z_1_1_render_1_1_disk_light_feature_processor_interface.html#a950b816083579518261f867c7d9c19cb", null ],
     [ "SetAffectsGI", "class_a_z_1_1_render_1_1_disk_light_feature_processor_interface.html#ac7c32206a51f535b073a65f1d8f5bb3c", null ],
     [ "SetAffectsGIFactor", "class_a_z_1_1_render_1_1_disk_light_feature_processor_interface.html#a6d965ca2540dd647e77e5af6723ea17b", null ],

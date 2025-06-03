@@ -60,8 +60,6 @@ var hierarchy =
     [ "NvCloth::FabricCookedData", "struct_nv_cloth_1_1_fabric_cooked_data.html", null ],
     [ "NvCloth::Factory", "class_nv_cloth_1_1_factory.html", null ],
     [ "NvCloth::GenericId< Tag >", "class_nv_cloth_1_1_generic_id.html", null ],
-    [ "NvCloth::GenericId< struct ClothIdTag >", "class_nv_cloth_1_1_generic_id.html", null ],
-    [ "NvCloth::GenericId< struct FabricIdTag >", "class_nv_cloth_1_1_generic_id.html", null ],
     [ "NvCloth::ICloth", "class_nv_cloth_1_1_i_cloth.html", [
       [ "NvCloth::Cloth", "class_nv_cloth_1_1_cloth.html", null ]
     ] ],

@@ -1,6 +1,5 @@
 var NAVTREEINDEX12 =
 {
-"class_m_core_1_1_initializer.html#ade5c1a32838b9b2650ad61f685a0ed3b":[0,0,5,38,1],
 "class_m_core_1_1_lcg_random.html":[0,0,5,39],
 "class_m_core_1_1_lock_guard.html":[0,0,5,40],
 "class_m_core_1_1_lock_guard_recursive.html":[0,0,5,41],
@@ -249,5 +248,6 @@ var NAVTREEINDEX12 =
 "functions_func_e.html":[0,3,1,4],
 "functions_func_f.html":[0,3,1,5],
 "functions_func_g.html":[0,3,1,6],
-"functions_func_h.html":[0,3,1,7]
+"functions_func_h.html":[0,3,1,7],
+"functions_func_i.html":[0,3,1,8]
 };

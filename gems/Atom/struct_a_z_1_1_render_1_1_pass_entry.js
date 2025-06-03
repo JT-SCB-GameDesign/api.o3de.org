@@ -3,6 +3,7 @@ var struct_a_z_1_1_render_1_1_pass_entry =
     [ "IsPipelineStatisticsEnabled", "struct_a_z_1_1_render_1_1_pass_entry.html#a421a0b97fc71d313bda57c9dc597b9c2", null ],
     [ "IsTimestampEnabled", "struct_a_z_1_1_render_1_1_pass_entry.html#a1a51699f90e90576658e552e185b9a59", null ],
     [ "LinkChild", "struct_a_z_1_1_render_1_1_pass_entry.html#ac87b46d22a13c91c4b4eb3aad8cf2b1b", null ],
+    [ "PropagateDeviceIndex", "struct_a_z_1_1_render_1_1_pass_entry.html#a663fe90f77ac8939bf335a305493abbd", null ],
     [ "m_enabled", "struct_a_z_1_1_render_1_1_pass_entry.html#a025ec8296634fd6ab79149d2005a94c1", null ],
     [ "m_isParent", "struct_a_z_1_1_render_1_1_pass_entry.html#a69367833b4a4753b3288ba01f84375b1", null ],
     [ "m_linked", "struct_a_z_1_1_render_1_1_pass_entry.html#a81bb0c717681086be839792eec6e7943", null ],

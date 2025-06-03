@@ -1,6 +1,6 @@
 var class_az_tools_framework_1_1_editor_requests =
 [
-    [ "WidgetCreationFunc", "class_az_tools_framework_1_1_editor_requests.html#a63d6b190cf902c391f469518995c441e", null ],
+    [ "WidgetCreationFunc", "class_az_tools_framework_1_1_editor_requests.html#afbe220b9b5c766093a9ba3d3b9c0b771", null ],
     [ "BrowseForAssets", "class_az_tools_framework_1_1_editor_requests.html#a46985f6609f3ed7ce6b90ce3927a5a7c", null ],
     [ "CalculateAgentNavigationRadius", "class_az_tools_framework_1_1_editor_requests.html#a541571b3a2d8caf94c0dc61b908065ae", null ],
     [ "CanGoToSelectedEntitiesInViewports", "class_az_tools_framework_1_1_editor_requests.html#a1e8e0f34ccaa8e2d7b7f21364ddd452a", null ],

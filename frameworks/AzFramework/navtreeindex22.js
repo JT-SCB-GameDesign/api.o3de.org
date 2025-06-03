@@ -1,7 +1,5 @@
 var NAVTREEINDEX22 =
 {
-"struct_az_framework_1_1_translate_camera_input_channel_ids.html":[1,0,1,278],
-"struct_az_framework_1_1_translate_camera_input_channel_ids.html":[2,0,1,286],
 "struct_az_framework_1_1_update_entity_alias_types_optional_args.html":[1,0,1,282],
 "struct_az_framework_1_1_update_entity_alias_types_optional_args.html":[2,0,1,290],
 "struct_az_framework_1_1_update_entity_alias_types_optional_args.html#acea7b7961462cd4533cdf0f8a8150b99":[1,0,1,282,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX22 =
 "struct_az_physics_1_1_scene_query_hit.html#a7542de875819dc09d0f07d87e28c98a9":[1,0,2,19,5],
 "struct_az_physics_1_1_scene_query_hit.html#a7542de875819dc09d0f07d87e28c98a9":[2,0,2,19,5],
 "struct_az_physics_1_1_scene_query_hit.html#a86c740ff4300074b011d7218fac783c1":[1,0,2,19,0],
-"struct_az_physics_1_1_scene_query_hit.html#a86c740ff4300074b011d7218fac783c1":[2,0,2,19,0]
+"struct_az_physics_1_1_scene_query_hit.html#a86c740ff4300074b011d7218fac783c1":[2,0,2,19,0],
+"struct_az_physics_1_1_scene_query_hit.html#a9745dadfa172ec2a1563e2e74feafb25":[1,0,2,19,3],
+"struct_az_physics_1_1_scene_query_hit.html#a9745dadfa172ec2a1563e2e74feafb25":[2,0,2,19,3]
 };

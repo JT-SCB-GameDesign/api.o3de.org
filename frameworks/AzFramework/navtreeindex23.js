@@ -1,7 +1,5 @@
 var NAVTREEINDEX23 =
 {
-"struct_az_physics_1_1_scene_query_hit.html#a9745dadfa172ec2a1563e2e74feafb25":[1,0,2,19,3],
-"struct_az_physics_1_1_scene_query_hit.html#a9745dadfa172ec2a1563e2e74feafb25":[2,0,2,19,3],
 "struct_az_physics_1_1_scene_query_hit.html#ae7079bda8a7c9aaea909ca0b9dac7578":[1,0,2,19,1],
 "struct_az_physics_1_1_scene_query_hit.html#ae7079bda8a7c9aaea909ca0b9dac7578":[2,0,2,19,1],
 "struct_az_physics_1_1_scene_query_hits.html":[1,0,2,20],

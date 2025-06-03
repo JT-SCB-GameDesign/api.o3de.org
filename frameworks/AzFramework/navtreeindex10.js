@@ -1,12 +1,5 @@
 var NAVTREEINDEX10 =
 {
-"class_az_framework_1_1_orbit_camera_input.html":[1,0,1,176],
-"class_az_framework_1_1_orbit_camera_input.html":[2,0,1,184],
-"class_az_framework_1_1_orbit_camera_input.html#a117bda9679338948b80ce0cbe615108a":[1,0,1,176,4],
-"class_az_framework_1_1_orbit_camera_input.html#a117bda9679338948b80ce0cbe615108a":[2,0,1,184,4],
-"class_az_framework_1_1_orbit_camera_input.html#a2a1a735862a0be87cebaef87ff215e02":[1,0,1,176,3],
-"class_az_framework_1_1_orbit_camera_input.html#a2a1a735862a0be87cebaef87ff215e02":[2,0,1,184,3],
-"class_az_framework_1_1_orbit_camera_input.html#a9d4a2f5ad29bc49ecbd5f3c358c1154d":[1,0,1,176,1],
 "class_az_framework_1_1_orbit_camera_input.html#a9d4a2f5ad29bc49ecbd5f3c358c1154d":[2,0,1,184,1],
 "class_az_framework_1_1_orbit_camera_input.html#aa2dd25ab9852f31c5242836eeb20912d":[1,0,1,176,2],
 "class_az_framework_1_1_orbit_camera_input.html#aa2dd25ab9852f31c5242836eeb20912d":[2,0,1,184,2],
@@ -249,5 +242,12 @@ var NAVTREEINDEX10 =
 "class_az_framework_1_1_root_spawnable_definition.html#a1af32e13b580c3c094c9d017507e2873":[2,0,1,213,3],
 "class_az_framework_1_1_root_spawnable_definition.html#a5e4922bda14ca80120fa26d7d6d8c879":[1,0,1,205,0],
 "class_az_framework_1_1_root_spawnable_definition.html#a5e4922bda14ca80120fa26d7d6d8c879":[2,0,1,213,0],
-"class_az_framework_1_1_root_spawnable_definition.html#af3817351a0359f03757be28ba75932eb":[1,0,1,205,2]
+"class_az_framework_1_1_root_spawnable_definition.html#af3817351a0359f03757be28ba75932eb":[1,0,1,205,2],
+"class_az_framework_1_1_root_spawnable_definition.html#af3817351a0359f03757be28ba75932eb":[2,0,1,213,2],
+"class_az_framework_1_1_root_spawnable_definition.html#afedadeb836969996a51340d2f09e7d00":[1,0,1,205,1],
+"class_az_framework_1_1_root_spawnable_definition.html#afedadeb836969996a51340d2f09e7d00":[2,0,1,213,1],
+"class_az_framework_1_1_root_spawnable_notifications.html":[1,0,1,206],
+"class_az_framework_1_1_root_spawnable_notifications.html":[2,0,1,214],
+"class_az_framework_1_1_root_spawnable_notifications.html#a67028b9950eb7d7f5fc05ed1b13fb33d":[1,0,1,206,2],
+"class_az_framework_1_1_root_spawnable_notifications.html#a67028b9950eb7d7f5fc05ed1b13fb33d":[2,0,1,214,2]
 };

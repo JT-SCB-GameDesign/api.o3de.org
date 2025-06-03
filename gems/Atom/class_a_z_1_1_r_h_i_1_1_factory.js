@@ -1,6 +1,6 @@
 var class_a_z_1_1_r_h_i_1_1_factory =
 [
-    [ "CreateBuffer", "class_a_z_1_1_r_h_i_1_1_factory.html#a34004556df49864193118f0341f3512b", null ],
+    [ "CreateBuffer", "class_a_z_1_1_r_h_i_1_1_factory.html#acdb8b0a45686c2a9a6316fee282a3dba", null ],
     [ "EnumeratePhysicalDevices", "class_a_z_1_1_r_h_i_1_1_factory.html#a40fca3644da6d1cc864898acf808c79d", null ],
     [ "Get", "class_a_z_1_1_r_h_i_1_1_factory.html#aa2c4cc5caed59e2ef2695805b970a758", null ],
     [ "GetAPIUniqueIndex", "class_a_z_1_1_r_h_i_1_1_factory.html#af77d73b5bcfd57d8dbc9b61a212cac39", null ],

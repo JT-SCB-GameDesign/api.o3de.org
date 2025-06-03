@@ -3,7 +3,6 @@ var NAVTREEINDEX0 =
 "annotated.html":[0,0],
 "class_abstract_value_1_1_base_value.html":[0,0,0,0],
 "class_abstract_value_1_1_value_t.html":[0,0,0,1],
-"class_abstract_value_1_1_value_t_3_01char_01_5_01_4.html":[0,0,0,2],
 "class_az_networking_1_1_az_networking_module.html":[0,0,1,1],
 "class_az_networking_1_1_byte_buffer.html":[0,0,1,2],
 "class_az_networking_1_1_byte_buffer.html#a3298b8d9dad966c785d3e5537d82ba4a":[0,0,1,2,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX0 =
 "class_az_networking_1_1_i_serializer.html#a466fa2ffababd694b1fa68cf83eb72f3":[0,0,1,29,27],
 "class_az_networking_1_1_i_serializer.html#a47039952774cb2766a25374114d142f9":[0,0,1,29,4],
 "class_az_networking_1_1_i_serializer.html#a488e6fbfee8d427c5473b5b48ce4c748":[0,0,1,29,14],
-"class_az_networking_1_1_i_serializer.html#a5297e4bf260a0ae2c3d849e4952a4035":[0,0,1,29,12]
+"class_az_networking_1_1_i_serializer.html#a5297e4bf260a0ae2c3d849e4952a4035":[0,0,1,29,12],
+"class_az_networking_1_1_i_serializer.html#a65cae59af6098ed864834a78cd2ced41":[0,0,1,29,18]
 };

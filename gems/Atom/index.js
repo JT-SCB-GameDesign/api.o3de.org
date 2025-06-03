@@ -9,7 +9,9 @@ var index =
       [ "Mapping memory", "quick_start.html#quick_start_mapping_memory", null ],
       [ "Initialization", "quick_start.html#quick_start_initialization", [
         [ "Selecting Vulkan version", "quick_start.html#quick_start_initialization_selecting_vulkan_version", null ],
-        [ "Importing Vulkan functions", "quick_start.html#quick_start_initialization_importing_vulkan_functions", null ]
+        [ "Importing Vulkan functions", "quick_start.html#quick_start_initialization_importing_vulkan_functions", null ],
+        [ "Enabling extensions", "quick_start.html#quick_start_initialization_enabling_extensions", null ],
+        [ "Other configuration options", "quick_start.html#quick_start_initialization_other_config", null ]
       ] ],
       [ "Resource allocation", "quick_start.html#quick_start_resource_allocation", null ]
     ] ],
@@ -57,6 +59,7 @@ var index =
       [ "Dedicated allocations", "choosing_memory_type.html#choosing_memory_type_dedicated_allocations", null ]
     ] ],
     [ "Memory mapping", "memory_mapping.html", [
+      [ "Copy functions", "memory_mapping.html#memory_mapping_copy_functions", null ],
       [ "Mapping functions", "memory_mapping.html#memory_mapping_mapping_functions", null ],
       [ "Persistently mapped memory", "memory_mapping.html#memory_mapping_persistently_mapped_memory", null ],
       [ "Cache flush and invalidate", "memory_mapping.html#memory_mapping_cache_control", null ]
@@ -67,6 +70,7 @@ var index =
     ] ],
     [ "Custom memory pools", "custom_memory_pools.html", [
       [ "Choosing memory type index", "custom_memory_pools.html#custom_memory_pools_MemTypeIndex", null ],
+      [ "When not to use custom pools", "custom_memory_pools.html#custom_memory_pools_when_not_use", null ],
       [ "Linear allocation algorithm", "custom_memory_pools.html#linear_algorithm", null ]
     ] ],
     [ "Allocation names and user data", "allocation_annotation.html", [
@@ -76,11 +80,13 @@ var index =
     [ "Debugging incorrect memory usage", "debugging_memory_usage.html", [
       [ "Memory initialization", "debugging_memory_usage.html#debugging_memory_usage_initialization", null ],
       [ "Margins", "debugging_memory_usage.html#debugging_memory_usage_margins", null ],
-      [ "Corruption detection", "debugging_memory_usage.html#debugging_memory_usage_corruption_detection", null ]
+      [ "Corruption detection", "debugging_memory_usage.html#debugging_memory_usage_corruption_detection", null ],
+      [ "Leak detection features", "debugging_memory_usage.html#debugging_memory_usage_leak_detection", null ]
     ] ],
-    [ "OpenGL Interop", "opengl_interop.html", [
-      [ "Exporting memory", "opengl_interop.html#opengl_interop_exporting_memory", null ],
-      [ "Custom alignment", "opengl_interop.html#opengl_interop_custom_alignment", null ]
+    [ "Interop with other graphics APIs", "other_api_interop.html", [
+      [ "Exporting memory", "other_api_interop.html#opengl_interop_exporting_memory", null ],
+      [ "Custom alignment", "other_api_interop.html#opengl_interop_custom_alignment", null ],
+      [ "Extended allocation information", "other_api_interop.html#opengl_interop_extended_allocation_information", null ]
     ] ],
     [ "Recommended usage patterns", "usage_patterns.html", [
       [ "GPU-only resource", "usage_patterns.html#usage_patterns_gpu_only", null ],

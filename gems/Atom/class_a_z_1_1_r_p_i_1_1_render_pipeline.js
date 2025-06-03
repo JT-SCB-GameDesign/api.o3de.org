@@ -31,6 +31,7 @@ var class_a_z_1_1_r_p_i_1_1_render_pipeline =
     [ "SetDefaultView", "class_a_z_1_1_r_p_i_1_1_render_pipeline.html#a4aa8f1b8ce180e4b4f932b09da1f8fc7", null ],
     [ "SetDefaultViewFromEntity", "class_a_z_1_1_r_p_i_1_1_render_pipeline.html#aa165d70a70a5e16f680d0fc1a03cc259", null ],
     [ "SetPersistentView", "class_a_z_1_1_r_p_i_1_1_render_pipeline.html#ae074b01e6bba38825d3ca2d91aa53db1", null ],
+    [ "SubpassMergingSupported", "class_a_z_1_1_r_p_i_1_1_render_pipeline.html#ad93d3939901353089190c9bbc9b0996c", null ],
     [ "UpdatePasses", "class_a_z_1_1_r_p_i_1_1_render_pipeline.html#a9d4dc360b727e739dc8af3e706f9f5db", null ],
     [ "UpdateViewportScissor", "class_a_z_1_1_r_p_i_1_1_render_pipeline.html#ad3d7e8a1cc8422b4f21a97b318b6f7f5", null ]
 ];

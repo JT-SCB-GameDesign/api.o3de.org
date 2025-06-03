@@ -1,5 +1,6 @@
 var struct_a_z_1_1_vulkan_1_1_render_pass_1_1_descriptor =
 [
+    [ "MergeSubpassDependencies", "struct_a_z_1_1_vulkan_1_1_render_pass_1_1_descriptor.html#a2baf8008a9f54bd2997b50c22bfc473d", null ],
     [ "m_attachmentCount", "struct_a_z_1_1_vulkan_1_1_render_pass_1_1_descriptor.html#acd015adaa04477f7bdd278edb941b053", null ],
     [ "m_attachments", "struct_a_z_1_1_vulkan_1_1_render_pass_1_1_descriptor.html#a7b1566fe39cdb30f03e67d29a4c32cf7", null ],
     [ "m_subpassCount", "struct_a_z_1_1_vulkan_1_1_render_pass_1_1_descriptor.html#a9b16c47931c48c43fdd85cc749c5be4a", null ],

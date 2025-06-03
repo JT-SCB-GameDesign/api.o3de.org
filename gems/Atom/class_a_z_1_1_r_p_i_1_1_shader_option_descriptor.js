@@ -1,6 +1,6 @@
 var class_a_z_1_1_r_p_i_1_1_shader_option_descriptor =
 [
-    [ "ShaderOptionDescriptor", "class_a_z_1_1_r_p_i_1_1_shader_option_descriptor.html#a840b0f81d57b4929afbe611fdca2f63d", null ],
+    [ "ShaderOptionDescriptor", "class_a_z_1_1_r_p_i_1_1_shader_option_descriptor.html#ac4a703b5c333284ef07f33657203ec19", null ],
     [ "Clear", "class_a_z_1_1_r_p_i_1_1_shader_option_descriptor.html#a5a41681a6a76ea6524aac4807f0297af", null ],
     [ "CompareOrder", "class_a_z_1_1_r_p_i_1_1_shader_option_descriptor.html#ab1e737d5578b22c970efaa388a7e1a81", null ],
     [ "DecodeBits", "class_a_z_1_1_r_p_i_1_1_shader_option_descriptor.html#ad4557d81aa8f8871495eb1cff1cd46bc", null ],
@@ -14,6 +14,7 @@ var class_a_z_1_1_r_p_i_1_1_shader_option_descriptor =
     [ "GetMaxValue", "class_a_z_1_1_r_p_i_1_1_shader_option_descriptor.html#a34c5d912c76db6fb96a23b70a111120f", null ],
     [ "GetMinValue", "class_a_z_1_1_r_p_i_1_1_shader_option_descriptor.html#aa68115ec4c24c7351980a3d02d7cb966", null ],
     [ "GetOrder", "class_a_z_1_1_r_p_i_1_1_shader_option_descriptor.html#a5c201743a62891093d352f637db6f5ee", null ],
+    [ "GetSpecializationId", "class_a_z_1_1_r_p_i_1_1_shader_option_descriptor.html#a7de26574528b670af16de2f963bb6056", null ],
     [ "GetType", "class_a_z_1_1_r_p_i_1_1_shader_option_descriptor.html#ac45922e948c9a70f21c2366d7a06cfc7", null ],
     [ "GetValueName", "class_a_z_1_1_r_p_i_1_1_shader_option_descriptor.html#a7b7e8f795a6905377c1b69018e211b92", null ],
     [ "GetValueName", "class_a_z_1_1_r_p_i_1_1_shader_option_descriptor.html#ac0349941d11cab977a3f3a93115a9223", null ],

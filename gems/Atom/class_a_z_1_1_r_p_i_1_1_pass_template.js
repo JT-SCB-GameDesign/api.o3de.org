@@ -8,6 +8,7 @@ var class_a_z_1_1_r_p_i_1_1_pass_template =
     [ "FindPassRequest", "class_a_z_1_1_r_p_i_1_1_pass_template.html#aeb019798b41af4f31cea484b89721e67", null ],
     [ "m_bufferAttachments", "class_a_z_1_1_r_p_i_1_1_pass_template.html#a9a9579990f492ee54e20938adab46bdc", null ],
     [ "m_connections", "class_a_z_1_1_r_p_i_1_1_pass_template.html#ae3b91d4bea393a11cdaf2aacfcc2aa96", null ],
+    [ "m_defaultShaderAttachmentStage", "class_a_z_1_1_r_p_i_1_1_pass_template.html#a9fb3784d5d38108a8419277baea44805", null ],
     [ "m_fallbackConnections", "class_a_z_1_1_r_p_i_1_1_pass_template.html#a9cf425e95ebbf1c017feb8571e5f4107", null ],
     [ "m_imageAttachments", "class_a_z_1_1_r_p_i_1_1_pass_template.html#a6132a9ab9d5ee6208564f2335834ee59", null ],
     [ "m_passClass", "class_a_z_1_1_r_p_i_1_1_pass_template.html#a903f49dc26f5bf305c1a539499e41ca4", null ],

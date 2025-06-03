@@ -772,6 +772,7 @@ var annotated_dup =
       [ "PerforceJobRequest", "class_az_tools_framework_1_1_perforce_job_request.html", null ],
       [ "PerforceJobResult", "class_az_tools_framework_1_1_perforce_job_result.html", null ],
       [ "PerforceSettingResult", "class_az_tools_framework_1_1_perforce_setting_result.html", null ],
+      [ "PerforceSettings", "class_az_tools_framework_1_1_perforce_settings.html", null ],
       [ "PlanarManipulator", "class_az_tools_framework_1_1_planar_manipulator.html", "class_az_tools_framework_1_1_planar_manipulator" ],
       [ "PlatformAddressedAssetCatalog", "class_az_tools_framework_1_1_platform_addressed_asset_catalog.html", "class_az_tools_framework_1_1_platform_addressed_asset_catalog" ],
       [ "PlatformAddressedAssetCatalogManager", "class_az_tools_framework_1_1_platform_addressed_asset_catalog_manager.html", "class_az_tools_framework_1_1_platform_addressed_asset_catalog_manager" ],

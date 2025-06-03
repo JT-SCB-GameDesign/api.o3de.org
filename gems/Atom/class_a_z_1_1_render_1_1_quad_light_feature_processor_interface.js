@@ -2,6 +2,8 @@ var class_a_z_1_1_render_1_1_quad_light_feature_processor_interface =
 [
     [ "AcquireLight", "class_a_z_1_1_render_1_1_quad_light_feature_processor_interface.html#ada97692b398932c1fcb340a84d6258a7", null ],
     [ "CloneLight", "class_a_z_1_1_render_1_1_quad_light_feature_processor_interface.html#aa90c296d6790f37d012eeaea617dc7c3", null ],
+    [ "GetLightBuffer", "class_a_z_1_1_render_1_1_quad_light_feature_processor_interface.html#a1750c89714b9b47ef858337a99318c1d", null ],
+    [ "GetLightCount", "class_a_z_1_1_render_1_1_quad_light_feature_processor_interface.html#ab0b4d56740dba53c1e36ae8071104a56", null ],
     [ "ReleaseLight", "class_a_z_1_1_render_1_1_quad_light_feature_processor_interface.html#a95c1831136b1e98faf4a4225be2fb996", null ],
     [ "SetAffectsGI", "class_a_z_1_1_render_1_1_quad_light_feature_processor_interface.html#a12237c41a9060b27b835600118ec2854", null ],
     [ "SetAffectsGIFactor", "class_a_z_1_1_render_1_1_quad_light_feature_processor_interface.html#a275c0490728d64aa35c2ccb84d0ef1c8", null ],

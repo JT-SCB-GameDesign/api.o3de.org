@@ -341,8 +341,6 @@ var hierarchy =
       ] ]
     ] ],
     [ "AZ::EnvironmentVariable< T >", "class_a_z_1_1_environment_variable.html", null ],
-    [ "AZ::EnvironmentVariable< AzToolsFramework::AssetBrowser::AssetBrowserFavoritesManager * >", "class_a_z_1_1_environment_variable.html", null ],
-    [ "AZ::EnvironmentVariable< AzToolsFramework::AssetBrowser::EntryCache * >", "class_a_z_1_1_environment_variable.html", null ],
     [ "AZ::FixedVertices", null, [
       [ "AzToolsFramework::FixedVerticesArray< Vertex, Count >", "class_az_tools_framework_1_1_fixed_vertices_array.html", null ]
     ] ],
@@ -787,12 +785,6 @@ var hierarchy =
       [ "AzToolsFramework::SplineHoverSelection", "class_az_tools_framework_1_1_spline_hover_selection.html", null ]
     ] ],
     [ "AzToolsFramework::IdType< T >", "class_az_tools_framework_1_1_id_type.html", null ],
-    [ "AzToolsFramework::IdType< struct ButtonIdType >", "class_az_tools_framework_1_1_id_type.html", null ],
-    [ "AzToolsFramework::IdType< struct ClusterIdType >", "class_az_tools_framework_1_1_id_type.html", null ],
-    [ "AzToolsFramework::IdType< struct ManipulatorManagerType >", "class_az_tools_framework_1_1_id_type.html", null ],
-    [ "AzToolsFramework::IdType< struct ManipulatorType >", "class_az_tools_framework_1_1_id_type.html", null ],
-    [ "AzToolsFramework::IdType< struct RegisteredBoundType >", "class_az_tools_framework_1_1_id_type.html", null ],
-    [ "AzToolsFramework::IdType< struct SwitcherIdType >", "class_az_tools_framework_1_1_id_type.html", null ],
     [ "AzToolsFramework::IMetadataRequests", "struct_az_tools_framework_1_1_i_metadata_requests.html", null ],
     [ "AzToolsFramework::IndexedTranslationManipulator< Vertex >", "struct_az_tools_framework_1_1_indexed_translation_manipulator.html", null ],
     [ "AzToolsFramework::IndexedTranslationManipulator< Vertex >::VertexLookup", "struct_az_tools_framework_1_1_indexed_translation_manipulator_1_1_vertex_lookup.html", null ],
@@ -1492,6 +1484,7 @@ var hierarchy =
       [ "AzToolsFramework::CScriptHelpDialog", "class_az_tools_framework_1_1_c_script_help_dialog.html", null ],
       [ "AzToolsFramework::KeyQueryDPE", "class_az_tools_framework_1_1_key_query_d_p_e.html", null ],
       [ "AzToolsFramework::LogPanel::NewLogTabDialog", "class_az_tools_framework_1_1_log_panel_1_1_new_log_tab_dialog.html", null ],
+      [ "AzToolsFramework::PerforceSettings", "class_az_tools_framework_1_1_perforce_settings.html", null ],
       [ "AzToolsFramework::SliceUtilities::MoveToSliceLevelConfirmation", "class_az_tools_framework_1_1_slice_utilities_1_1_move_to_slice_level_confirmation.html", null ]
     ] ],
     [ "QFrame", null, [

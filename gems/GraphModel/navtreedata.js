@@ -45,5 +45,6 @@ var NAVTREEINDEX =
 "struct_graph_model_integration_1_1_graph_model_serialization.html#a6576c56e27caf357bc0d7a54ad10b956"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';

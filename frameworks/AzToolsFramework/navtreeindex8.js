@@ -1,7 +1,5 @@
 var NAVTREEINDEX8 =
 {
-"class_az_tools_framework_1_1_editor_transform_component_selection_requests.html#a3ba5b4915080dad77c61e12e50341ba9af1a42bd417390fc63b030a519624607a":[1,0,1,151,0,0],
-"class_az_tools_framework_1_1_editor_transform_component_selection_requests.html#a3ba5b4915080dad77c61e12e50341ba9af1a42bd417390fc63b030a519624607a":[2,0,5,169,0,0],
 "class_az_tools_framework_1_1_editor_transform_component_selection_requests.html#a3d842483e322b64ba920c5ff046756f8":[1,0,1,151,14],
 "class_az_tools_framework_1_1_editor_transform_component_selection_requests.html#a3d842483e322b64ba920c5ff046756f8":[2,0,5,169,14],
 "class_az_tools_framework_1_1_editor_transform_component_selection_requests.html#a3ed3606cdf25d700283c2ec92ce9243b":[1,0,1,151,12],
@@ -249,5 +247,7 @@ var NAVTREEINDEX8 =
 "class_az_tools_framework_1_1_entity_outliner_search_widget.html":[1,0,1,181],
 "class_az_tools_framework_1_1_entity_outliner_search_widget.html":[2,0,5,199],
 "class_az_tools_framework_1_1_entity_property_editor_notifications.html":[1,0,1,182],
-"class_az_tools_framework_1_1_entity_property_editor_notifications.html":[2,0,5,200]
+"class_az_tools_framework_1_1_entity_property_editor_notifications.html":[2,0,5,200],
+"class_az_tools_framework_1_1_entity_property_editor_notifications.html#a97e08c8c31db0de22534d26da3708c65":[1,0,1,182,0],
+"class_az_tools_framework_1_1_entity_property_editor_notifications.html#a97e08c8c31db0de22534d26da3708c65":[2,0,5,200,0]
 };

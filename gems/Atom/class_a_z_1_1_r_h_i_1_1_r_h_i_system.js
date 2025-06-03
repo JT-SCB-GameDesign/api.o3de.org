@@ -2,6 +2,7 @@ var class_a_z_1_1_r_h_i_1_1_r_h_i_system =
 [
     [ "FrameGraphCallback", "class_a_z_1_1_r_h_i_1_1_r_h_i_system.html#a5353111ffb18d9c16657b70a46e2f6a6", null ],
     [ "AddVirtualDevice", "class_a_z_1_1_r_h_i_1_1_r_h_i_system.html#a88fa444f44ca994d2e806d7bdf5dd58e", null ],
+    [ "CanMergeSubpasses", "class_a_z_1_1_r_h_i_1_1_r_h_i_system.html#a450b898f6379ea744404d9c054dc1ba7", null ],
     [ "FrameUpdate", "class_a_z_1_1_r_h_i_1_1_r_h_i_system.html#a63976a9321bccc551d6259725a60f991", null ],
     [ "Init", "class_a_z_1_1_r_h_i_1_1_r_h_i_system.html#aae9d88f8e427770024cda36db9d867ec", null ],
     [ "InitDevices", "class_a_z_1_1_r_h_i_1_1_r_h_i_system.html#a60bc1c83c0cc2333a3b34bd9d2de107c", null ],

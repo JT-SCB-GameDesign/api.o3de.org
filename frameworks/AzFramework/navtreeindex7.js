@@ -1,12 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"class_az_framework_1_1_input_device_keyboard_windows.html#a6021ac3b6e012870584dcca5923d6e7a":[1,0,1,116,1],
-"class_az_framework_1_1_input_device_keyboard_windows.html#a6021ac3b6e012870584dcca5923d6e7a":[2,0,1,124,1],
-"class_az_framework_1_1_input_device_motion.html":[1,0,1,117],
-"class_az_framework_1_1_input_device_motion.html":[2,0,1,125],
-"class_az_framework_1_1_input_device_motion.html#a02797db92ac33def1f363c5d10c1dec2":[1,0,1,117,9],
-"class_az_framework_1_1_input_device_motion.html#a02797db92ac33def1f363c5d10c1dec2":[2,0,1,125,9],
-"class_az_framework_1_1_input_device_motion.html#a105c9b8810c5cfeef807a1149dbd59cc":[1,0,1,117,12],
 "class_az_framework_1_1_input_device_motion.html#a105c9b8810c5cfeef807a1149dbd59cc":[2,0,1,125,12],
 "class_az_framework_1_1_input_device_motion.html#a10622d0f898858d97383044372840a02":[1,0,1,117,24],
 "class_az_framework_1_1_input_device_motion.html#a10622d0f898858d97383044372840a02":[2,0,1,125,24],
@@ -249,5 +242,12 @@ var NAVTREEINDEX7 =
 "class_az_framework_1_1_input_device_touch_1_1_implementation.html#a0296f66492626c0858eb3dd4bb5f6b62":[1,0,1,122,0,2],
 "class_az_framework_1_1_input_device_touch_1_1_implementation.html#a0296f66492626c0858eb3dd4bb5f6b62":[2,0,1,130,0,2],
 "class_az_framework_1_1_input_device_touch_1_1_implementation.html#a1676d7d0a5e0241e35ef9e24b147e993":[1,0,1,122,0,9],
-"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a1676d7d0a5e0241e35ef9e24b147e993":[2,0,1,130,0,9]
+"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a1676d7d0a5e0241e35ef9e24b147e993":[2,0,1,130,0,9],
+"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a26d3d880275150cd723c9326d33a8d0c":[1,0,1,122,0,8],
+"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a26d3d880275150cd723c9326d33a8d0c":[2,0,1,130,0,8],
+"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a2ac2e3513fef9747497a88b976f96e3d":[1,0,1,122,0,6],
+"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a2ac2e3513fef9747497a88b976f96e3d":[2,0,1,130,0,6],
+"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a2b7ab5a4d1a25e44213f29d0efa10c34":[1,0,1,122,0,1],
+"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a2b7ab5a4d1a25e44213f29d0efa10c34":[2,0,1,130,0,1],
+"class_az_framework_1_1_input_device_touch_1_1_implementation.html#a41ccc651b9afa01cbd2f14259c2086b0":[1,0,1,122,0,7]
 };

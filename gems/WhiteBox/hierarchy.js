@@ -61,6 +61,10 @@ var hierarchy =
     [ "AzFramework::ViewportDebugDisplayEventBus::Handler", null, [
       [ "WhiteBox::VertexTranslationModifier", "class_white_box_1_1_vertex_translation_modifier.html", null ]
     ] ],
+    [ "AzFramework::VisibleGeometryRequestBus::Handler", null, [
+      [ "WhiteBox::EditorWhiteBoxComponent", "class_white_box_1_1_editor_white_box_component.html", null ],
+      [ "WhiteBox::WhiteBoxComponent", "class_white_box_1_1_white_box_component.html", null ]
+    ] ],
     [ "AzToolsFramework::ActionManagerRegistrationNotificationBus::Handler", null, [
       [ "WhiteBox::EditorWhiteBoxSystemComponent", "class_white_box_1_1_editor_white_box_system_component.html", null ]
     ] ],
@@ -149,9 +153,6 @@ var hierarchy =
     [ "WhiteBox::EdgeScaleModifier", "class_white_box_1_1_edge_scale_modifier.html", null ],
     [ "WhiteBox::EdgeTranslationModifier", "class_white_box_1_1_edge_translation_modifier.html", null ],
     [ "WhiteBox::GenericHandle< Tag >", "class_white_box_1_1_generic_handle.html", null ],
-    [ "WhiteBox::GenericHandle< struct EdgeHandleTag >", "class_white_box_1_1_generic_handle.html", null ],
-    [ "WhiteBox::GenericHandle< struct FaceHandleTag >", "class_white_box_1_1_generic_handle.html", null ],
-    [ "WhiteBox::GenericHandle< struct VertexHandleTag >", "class_white_box_1_1_generic_handle.html", null ],
     [ "WhiteBox::GeometryIntersectionData", "struct_white_box_1_1_geometry_intersection_data.html", null ],
     [ "WhiteBox::Intersection", "struct_white_box_1_1_intersection.html", null ],
     [ "WhiteBox::IntersectionAndRenderData", "struct_white_box_1_1_intersection_and_render_data.html", null ],

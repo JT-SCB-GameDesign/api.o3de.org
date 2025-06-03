@@ -52,10 +52,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"class_phys_x_1_1_editor_mesh_collider_component.html",
-"class_phys_x_1_1_px_az_allocator_callback.html",
-"struct_phys_x_1_1_editor_character_controller_proxy_shape_config.html"
+"class_phys_x_1_1_editor_mesh_collider_component_descriptor.html",
+"class_phys_x_1_1_px_az_error_callback.html",
+"struct_phys_x_1_1_editor_proxy_asset_shape_config.html"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';

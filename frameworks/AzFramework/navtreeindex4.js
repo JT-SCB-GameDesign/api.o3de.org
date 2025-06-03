@@ -1,12 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"class_az_framework_1_1_i_entity_bounds_union.html#aeda0c9d359c43fb25a2a9e3ed03cd078":[1,0,1,80,4],
-"class_az_framework_1_1_i_entity_bounds_union.html#aeda0c9d359c43fb25a2a9e3ed03cd078":[2,0,1,88,4],
-"class_az_framework_1_1_i_entity_bounds_union.html#afb7932a3a76c88348a1aae88018a2260":[1,0,1,80,0],
-"class_az_framework_1_1_i_entity_bounds_union.html#afb7932a3a76c88348a1aae88018a2260":[2,0,1,88,0],
-"class_az_framework_1_1_i_entity_bounds_union_traits.html":[1,0,1,81],
-"class_az_framework_1_1_i_entity_bounds_union_traits.html":[2,0,1,89],
-"class_az_framework_1_1_i_level_system_lifecycle.html":[1,0,1,82],
 "class_az_framework_1_1_i_level_system_lifecycle.html":[2,0,1,90],
 "class_az_framework_1_1_i_level_system_lifecycle.html#ad7020c7f25b962ea8ed995c88ab3a948":[1,0,1,82,1],
 "class_az_framework_1_1_i_level_system_lifecycle.html#ad7020c7f25b962ea8ed995c88ab3a948":[2,0,1,90,1],
@@ -249,5 +242,12 @@ var NAVTREEINDEX4 =
 "class_az_framework_1_1_input_channel_digital.html#a9fa2df8776e4d2a5dcb41ad7002278b7":[1,0,1,92,4],
 "class_az_framework_1_1_input_channel_digital.html#a9fa2df8776e4d2a5dcb41ad7002278b7":[2,0,1,100,4],
 "class_az_framework_1_1_input_channel_digital.html#ac0f329fe3e474b14466d6ba16cc90dae":[1,0,1,92,5],
-"class_az_framework_1_1_input_channel_digital.html#ac0f329fe3e474b14466d6ba16cc90dae":[2,0,1,100,5]
+"class_az_framework_1_1_input_channel_digital.html#ac0f329fe3e474b14466d6ba16cc90dae":[2,0,1,100,5],
+"class_az_framework_1_1_input_channel_digital.html#aee3cbe1233a8589f2931b8f296e04cf5":[1,0,1,92,3],
+"class_az_framework_1_1_input_channel_digital.html#aee3cbe1233a8589f2931b8f296e04cf5":[2,0,1,100,3],
+"class_az_framework_1_1_input_channel_digital_with_position2_d.html":[1,0,1,93],
+"class_az_framework_1_1_input_channel_digital_with_position2_d.html":[2,0,1,101],
+"class_az_framework_1_1_input_channel_digital_with_position2_d.html#a161d1355a6ee8062c926e5c4783a2981":[1,0,1,93,4],
+"class_az_framework_1_1_input_channel_digital_with_position2_d.html#a161d1355a6ee8062c926e5c4783a2981":[2,0,1,101,4],
+"class_az_framework_1_1_input_channel_digital_with_position2_d.html#a36a3cb9b5975bc7cb11f96a87f0bdba1":[1,0,1,93,5]
 };

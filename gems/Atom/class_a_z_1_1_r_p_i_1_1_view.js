@@ -21,6 +21,7 @@ var class_a_z_1_1_r_p_i_1_1_view =
     [ "GetOrFlags", "class_a_z_1_1_r_p_i_1_1_view.html#a75fe5e45559f68089356fa24bc58cf3e", null ],
     [ "GetSortKeyForPosition", "class_a_z_1_1_r_p_i_1_1_view.html#ae4398181c6f4a7d322889605d808998f", null ],
     [ "GetViewToWorldMatrix", "class_a_z_1_1_r_p_i_1_1_view.html#adc8417daf4ad238f1f6b7f61c20d670e", null ],
+    [ "GetWorldToClipPrevMatrixWithOffset", "class_a_z_1_1_r_p_i_1_1_view.html#afd98481bd05ad22ce87b6fc2bb306b79", null ],
     [ "OnAddToRenderPipeline", "class_a_z_1_1_r_p_i_1_1_view.html#a508d18b042b6f966b26a58bf75763b1b", null ],
     [ "PrintDrawListMask", "class_a_z_1_1_r_p_i_1_1_view.html#a04dac985abaa625aec4abb6592c19b3f", null ],
     [ "SetCameraTransform", "class_a_z_1_1_r_p_i_1_1_view.html#a1c4408ef0ab16ff1d56c507a25d2adee", null ],

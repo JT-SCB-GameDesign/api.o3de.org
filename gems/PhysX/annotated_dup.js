@@ -45,7 +45,6 @@ var annotated_dup =
         [ "EditorWindow", "class_phys_x_1_1_editor_1_1_editor_window.html", null ],
         [ "InertiaPropertyHandler", "class_phys_x_1_1_editor_1_1_inertia_property_handler.html", null ],
         [ "KinematicDescriptionDialog", "class_phys_x_1_1_editor_1_1_kinematic_description_dialog.html", null ],
-        [ "PvdWidget", "class_phys_x_1_1_editor_1_1_pvd_widget.html", null ],
         [ "RowHeader", "class_phys_x_1_1_editor_1_1_row_header.html", "class_phys_x_1_1_editor_1_1_row_header" ],
         [ "SettingsWidget", "class_phys_x_1_1_editor_1_1_settings_widget.html", null ]
       ] ],

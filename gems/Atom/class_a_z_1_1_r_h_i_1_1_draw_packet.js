@@ -9,7 +9,6 @@ var class_a_z_1_1_r_h_i_1_1_draw_packet =
     [ "GetDrawListIndex", "class_a_z_1_1_r_h_i_1_1_draw_packet.html#a1d5db310e0efccf64f84d0d291e60b58", null ],
     [ "GetDrawListMask", "class_a_z_1_1_r_h_i_1_1_draw_packet.html#a6ee3be864f14671ca91bce8719861ff1", null ],
     [ "GetDrawListTag", "class_a_z_1_1_r_h_i_1_1_draw_packet.html#a91c7cb6f667d0a88a7cc8a007071f8b5", null ],
-    [ "operator delete", "class_a_z_1_1_r_h_i_1_1_draw_packet.html#a9fc1f19717769ad16299cbdc973e4321", null ],
     [ "SetInstanceCount", "class_a_z_1_1_r_h_i_1_1_draw_packet.html#a5e979239056b9277ebad736e06afa749", null ],
-    [ "SetRootConstant", "class_a_z_1_1_r_h_i_1_1_draw_packet.html#a93415e438be5b239a5d561fecbb2ea12", null ]
+    [ "SetRootConstant", "class_a_z_1_1_r_h_i_1_1_draw_packet.html#a4322681b681642773d9ebcfbfd3f8706", null ]
 ];
